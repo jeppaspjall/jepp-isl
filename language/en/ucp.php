@@ -617,7 +617,7 @@ $lang = array_merge($lang, array(
 		'PLACE_INTO_FOLDER'	=> 'Place into folder',
 		'MARK_AS_READ'		=> 'Mark as read',
 		'MARK_AS_IMPORTANT'	=> 'Mark message',
-		'DELETE_MESSAGE'	=> 'Delete message',
+		'DELETE_MESSAGE'	=> 'Eyða skilaboðum',
 	),
 	'PM_CHECK' => array(
 		'SUBJECT'	=> 'Subject',
