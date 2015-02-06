@@ -37,21 +37,21 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'APPROVE'								=> 'Approve',
-	'ATTACHMENT'						=> 'Attachment',
-	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'The attachments feature has been disabled.',
+	'APPROVE'								=> ‘Samþykkja’,
+	'ATTACHMENT'						=> ‘Viðhengi’,
+	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> ‘Eiginleikar viðhengis hafa verið gerðir óvirkir.’,
 
-	'BOOKMARK_ADDED'		=> 'Bookmarked topic successfully.',
-	'BOOKMARK_ERR'			=> 'Bookmarking the topic failed. Please try again.',
-	'BOOKMARK_REMOVED'		=> 'Removed bookmarked topic successfully.',
-	'BOOKMARK_TOPIC'		=> 'Bookmark topic',
-	'BOOKMARK_TOPIC_REMOVE'	=> 'Remove from bookmarks',
-	'BUMPED_BY'				=> 'Last bumped by %1$s on %2$s.',
-	'BUMP_TOPIC'			=> 'Bump topic',
+	'BOOKMARK_ADDED'		=> ‘Bókamerking tókst.’,
+	'BOOKMARK_ERR'			=> ‘Bókamerking mistókst. Vinsamlega reynið aftur.’,
+	'BOOKMARK_REMOVED'		=> ‘Bókamerki fjarlægt.’,
+	'BOOKMARK_TOPIC'		=> ‘Bókamerkja umræðu’,
+	'BOOKMARK_TOPIC_REMOVE'	=> ‘Fjarlægja bókamerki’,
+	'BUMPED_BY'				=> ’Síðast fært upp af %1$s á %2$s.',
+	'BUMP_TOPIC'			=> 'Færa upp’,
 
 	'CODE'					=> 'Code',
 
-	'DELETE_TOPIC'			=> 'Delete topic',
+	'DELETE_TOPIC'			=> ‘Eyða umræðu’,
 	'DELETED_INFORMATION'	=> 'Deleted by %1$s on %2$s',
 	'DISAPPROVE'					=> 'Disapprove',
 	'DOWNLOAD_NOTICE'		=> 'You do not have the required permissions to view the files attached to this post.',
