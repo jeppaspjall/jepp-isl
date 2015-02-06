@@ -37,15 +37,15 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ACTIVE_TOPICS'			=> 'Active topics',
-	'ANNOUNCEMENTS'			=> 'Announcements',
+	'ACTIVE_TOPICS'			=> 'Virkar umræður',
+	'ANNOUNCEMENTS'			=> 'Tilkynningar',
 
 	'FORUM_PERMISSIONS'		=> 'Réttindi svæðis',
 
-	'ICON_ANNOUNCEMENT'		=> 'Announcement',
-	'ICON_STICKY'			=> 'Sticky',
+	'ICON_ANNOUNCEMENT'		=> 'Tilkynning',
+	'ICON_STICKY'			=> 'Límdur umræða',
 
-	'LOGIN_NOTIFY_FORUM'	=> 'You have been notified about this forum, please login to view it.',
+	'LOGIN_NOTIFY_FORUM'	=> 'Þér hefur borist tilkynning um þetta spjallsvæði, vinsamlega skráðu þig inn til að skoða hana.',
 
 	'MARK_TOPICS_READ'		=> 'Merkja umræður sem lesnar',
 
@@ -53,18 +53,18 @@ $lang = array_merge($lang, array(
 	'NEW_POSTS_LOCKED'		=> 'New posts [ Locked ]',	// Not used anymore
 	'NO_NEW_POSTS_HOT'		=> 'No new posts [ Popular ]',	// Not used anymore
 	'NO_NEW_POSTS_LOCKED'	=> 'No new posts [ Locked ]',	// Not used anymore
-	'NO_READ_ACCESS'		=> 'You do not have the required permissions to read topics within this forum.',
-	'NO_UNREAD_POSTS_HOT'		=> 'No unread posts [ Popular ]',
-	'NO_UNREAD_POSTS_LOCKED'	=> 'No unread posts [ Locked ]',
+	'NO_READ_ACCESS'		=> 'Þú hefur ekki tilskilin leyfi til að skoða umræður á þessu spjallsvæði.',
+	'NO_UNREAD_POSTS_HOT'		=> 'Engin ólesin innlegg [ Vinsæl ]',
+	'NO_UNREAD_POSTS_LOCKED'	=> 'Engin ólesin innlegg [ Læst ]',
 
-	'POST_FORUM_LOCKED'		=> 'Forum is locked',
+	'POST_FORUM_LOCKED'		=> 'Spjallsvæði er læst',
 
-	'TOPICS_MARKED'			=> 'The topics for this forum have now been marked read.',
+	'TOPICS_MARKED'			=> 'Umræður á þessu spjallsvæði hafa verið merktar sem lesnar.',
 
-	'UNREAD_POSTS_HOT'		=> 'Unread posts [ Popular ]',
-	'UNREAD_POSTS_LOCKED'	=> 'Unread posts [ Locked ]',
+	'UNREAD_POSTS_HOT'		=> 'Ólesin innlegg [ Vinsæl ]',
+	'UNREAD_POSTS_LOCKED'	=> 'Ólesin innlegg [ Læst ]',
 
-	'VIEW_FORUM'			=> 'View forum',
+	'VIEW_FORUM'			=> 'Skoða spjallsvæði',
 	'VIEW_FORUM_TOPICS'		=> array(
 		1	=> '%d umræða',
 		2	=> '%d umræður',
