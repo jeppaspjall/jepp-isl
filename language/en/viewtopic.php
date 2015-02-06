@@ -37,39 +37,39 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'APPROVE'								=> ‘Samþykkja’,
-	'ATTACHMENT'						=> ‘Viðhengi’,
-	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> ‘Eiginleikar viðhengis hafa verið gerðir óvirkir.’,
+	'APPROVE'								=> 'Samþykkja',
+	'ATTACHMENT'						=> 'Viðhengi',
+	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'Eiginleikar viðhengis hafa verið gerðir óvirkir.',
 
-	'BOOKMARK_ADDED'		=> ‘Bókamerking tókst.’,
-	'BOOKMARK_ERR'			=> ‘Bókamerking mistókst. Vinsamlega reynið aftur.’,
-	'BOOKMARK_REMOVED'		=> ‘Bókamerki fjarlægt.’,
-	'BOOKMARK_TOPIC'		=> ‘Bókamerkja umræðu’,
-	'BOOKMARK_TOPIC_REMOVE'	=> ‘Fjarlægja bókamerki’,
-	'BUMPED_BY'				=> ’Síðast fært upp af %1$s á %2$s.',
-	'BUMP_TOPIC'			=> 'Færa upp’,
+	'BOOKMARK_ADDED'		=> 'Bókamerking tókst.',
+	'BOOKMARK_ERR'			=> 'Bókamerking mistókst. Vinsamlega reynið aftur.',
+	'BOOKMARK_REMOVED'		=> 'Bókamerki fjarlægt.',
+	'BOOKMARK_TOPIC'		=> 'Bókamerkja umræðu',
+	'BOOKMARK_TOPIC_REMOVE'	=> 'Fjarlægja bókamerki',
+	'BUMPED_BY'				=> 'Síðast fært upp af %1$s þann %2$s.',
+	'BUMP_TOPIC'			=> 'Færa upp',
 
 	'CODE'					=> 'Code',
 
-	'DELETE_TOPIC'			=> ‘Eyða umræðu’,
-	'DELETED_INFORMATION'	=> 'Deleted by %1$s on %2$s',
-	'DISAPPROVE'					=> 'Disapprove',
-	'DOWNLOAD_NOTICE'		=> 'You do not have the required permissions to view the files attached to this post.',
+	'DELETE_TOPIC'			=> 'Eyða umræðu',
+	'DELETED_INFORMATION'	=> 'Eytt af %1$s þann %2$s',
+	'DISAPPROVE'					=> 'Hafna',
+	'DOWNLOAD_NOTICE'		=> 'Þú hefur ekki tilskilin réttindi tip að skoða viðhengi þessa innleggs.',
 
 	'EDITED_TIMES_TOTAL'	=> array(
-		1	=> 'Last edited by %2$s on %3$s, edited %1$d time in total.',
-		2	=> 'Last edited by %2$s on %3$s, edited %1$d times in total.',
+		1	=> 'Síðast breytt af %2$s þann %3$s, breytt %1$d sinni samtals.',
+		2	=> 'Síðast breytt af %2$s þann %3$s, breytt %1$d sinnum samtals.',
 	),
 	'EMAIL_TOPIC'			=> 'Email topic',
-	'ERROR_NO_ATTACHMENT'	=> 'The selected attachment does not exist anymore.',
+	'ERROR_NO_ATTACHMENT'	=> 'Valið viðhengi er ekki lengur til staðar.',
 
-	'FILE_NOT_FOUND_404'	=> 'The file <strong>%s</strong> does not exist.',
-	'FORK_TOPIC'			=> 'Copy topic',
-	'FULL_EDITOR'			=> 'Full Editor &amp; Preview',
+	'FILE_NOT_FOUND_404'	=> 'Skráin <strong>%s</strong> er ekki til.',
+	'FORK_TOPIC'			=> 'Afrita umræðu',
+	'FULL_EDITOR'			=> 'Fullbúinn ritill &amp; Forskoða',
 
-	'LINKAGE_FORBIDDEN'		=> 'You are not authorised to view, download or link from/to this site.',
-	'LOGIN_NOTIFY_TOPIC'	=> 'You have been notified about this topic, please login to view it.',
-	'LOGIN_VIEWTOPIC'		=> 'The board requires you to be registered and logged in to view this topic.',
+	'LINKAGE_FORBIDDEN'		=> 'Þú hefur ekki tilskilin réttindi til að skoða, niðurhala eða hlekkja frá/til þessarar síðu.',
+	'LOGIN_NOTIFY_TOPIC'	=> 'Þér hefur borist tilkynning um þessa umræðu, vinsamlega skráðu þig inn til að skoða hana.',
+	'LOGIN_VIEWTOPIC'		=> 'Þú þarft að vera innskráður til að skoða þessa umræðu.',
 
 	'MAKE_ANNOUNCE'				=> 'Change to “Announcement”',
 	'MAKE_GLOBAL'				=> 'Change to “Global”',
@@ -82,7 +82,7 @@ $lang = array_merge($lang, array(
 	'MISSING_INLINE_ATTACHMENT'	=> 'The attachment <strong>%s</strong> is no longer available',
 	'MOVE_TOPIC'				=> 'Move topic',
 
-	'NO_ATTACHMENT_SELECTED'=> 'You haven’t selected an attachment to download or view.',
+	'NO_ATTACHMENT_SELECTED'=> 'You haven't selected an attachment to download or view.',
 	'NO_NEWER_TOPICS'		=> 'There are no newer topics in this forum.',
 	'NO_OLDER_TOPICS'		=> 'There are no older topics in this forum.',
 	'NO_UNREAD_POSTS'		=> 'There are no new unread posts for this topic.',
