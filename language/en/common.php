@@ -60,7 +60,7 @@ $lang = array_merge($lang, array(
 	'6_MONTHS'		=> '6 mánuðum',
 	'7_DAYS'		=> '7 dögum',
 
-	'ACCOUNT_ALREADY_ACTIVATED'		=> 'Your account has already been activated.',
+	'ACCOUNT_ALREADY_ACTIVATED'		=> ‘Aðgangur þinn hefur þegar verið virkjaður.’,
 	'ACCOUNT_DEACTIVATED'			=> 'Your account has been manually deactivated and is only able to be reactivated by an administrator.',
 	'ACCOUNT_NOT_ACTIVATED'			=> 'Your account has not been activated yet.',
 	'ACP'							=> 'Administration Control Panel',
