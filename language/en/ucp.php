@@ -377,7 +377,7 @@ $lang = array_merge($lang, array(
 	'NO_AUTH_READ_MESSAGE'			=> 'Þú hefur ekki réttindi til að lesa einkaskilaboð.',
 	'NO_AUTH_READ_REMOVED_MESSAGE'	=> 'Þú getur ekki lesi þessi skilaboð því þeim hefur verið eytt af höfundi.',
 	'NO_AUTH_SEND_MESSAGE'			=> 'Þú hefur ekki réttindi til að senda einkaskilaboð.',
-	'NO_AUTH_SIGNATURE'				=> Þú hefur ekki réttindi til að breyta undirskrift.',
+	'NO_AUTH_SIGNATURE'				=> 'Þú hefur ekki réttindi til að breyta undirskrift.',
 
 	'NO_BCC_RECIPIENT'			=> 'Enginn',
 	'NO_BOOKMARKS'				=> 'Þú átt engin bókamerki.',
