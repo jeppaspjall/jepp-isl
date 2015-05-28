@@ -882,9 +882,9 @@ $lang = array_merge($lang, array(
 	'YOU_LAST_VISIT'	=> 'Síðasta heimsókn: %s',
 
 	'datetime'			=> array(
-		'TODAY'		=> 'Today',
-		'TOMORROW'	=> 'Tomorrow',
-		'YESTERDAY'	=> 'Yesterday',
+		'TODAY'		=> 'Í dag',
+		'TOMORROW'	=> 'Á morgun',
+		'YESTERDAY'	=> 'Í gær',
 		'AGO'		=> array(
 			0		=> 'rétt í þessu',
 			1		=> '%d mínútu síðan',
