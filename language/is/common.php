@@ -388,7 +388,6 @@ $lang = array_merge($lang, array(
 	'MARK_ALL_READ'			=> 'Merkja allt lesið',
 	'MARK_FORUMS_READ'		=> 'Merkja spjallsvæði sem lesin',
 	'MARK_READ'				=> 'Merkja lesið',
-	'MARK_SUBFORUMS_READ'	=> 'Mark subforums read',
 	'MB'					=> 'MB',
 	'MIB'					=> 'MiB',
 	'MCP'					=> 'Moderator Control Panel',
@@ -429,7 +428,7 @@ $lang = array_merge($lang, array(
 	'NOT_ALLOWED_MANAGE_GROUP'	=> 'You are not allowed to manage this group.',
 	'NOT_AUTHORISED'			=> 'You are not authorised to access this area.',
 	'NOT_WATCHING_FORUM'		=> 'Þú færð ekki lengur tilkynningar frá þessu svæði.',
-	'NOT_WATCHING_TOPIC'		=> 'You are no longer subscribed to this topic.',
+	'NOT_WATCHING_TOPIC'		=> 'Þú færð ekki lengur tilkynningar frá þessum þræði.',
 	'NOTIFICATIONS'				=> 'Tilkynningar',
 	// This applies for NOTIFICATION_BOOKMARK and NOTIFICATION_POST.
 	// %1$s will return a list of users that's concatenated using "," and "and" - see STRING_LIST
