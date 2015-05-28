@@ -56,156 +56,155 @@ $help = array(
 		1 => 'Það gætu verið nokkrar ástæður. Í fyrsta lagi, gakktu úr skugga um að notendanafn og lykilorð séu rétt. Ef þau eru rétt, hafðu samband við stjórnanda ef ske kynni að notandi þinn hefi verið bannaður. Það gæti einnig verið villa á okkar enda sem við þurfum að laga!',
 	),
 	array(
-		0 => 'I registered in the past but cannot login any more?!',
-		1 => 'It is possible an administrator has deactivated or deleted your account for some reason. Also, many boards periodically remove users who have not posted for a long time to reduce the size of the database. If this has happened, try registering again and being more involved in discussions.'
+		0 => 'Ég var búinn að skrá mig áður en núna get ég ekki skráð mig inn?',
+		1 => 'Það gæti verið að aðgangur þinn hafi verið gerður óvirkur. Einnig gæti verið að óvirkum notendum sé eytt með vissu millibili. Ef það hefur gerst, endilega skráðu þig upp á nýtt og vertu virkari í framtíðinni!'
 	),
 	array(
-		0 => 'I’ve lost my password!',
-		1 => 'Don’t panic! While your password cannot be retrieved, it can easily be reset. Visit the login page and click <em>I forgot my password</em>. Follow the instructions and you should be able to log in again shortly.<br />However, if you are not able to reset your password, contact a board administrator.',
+		0 => 'Ég gleymdi lykilorðinu mínu',
+		1 => 'Engar áhyggur! Við getum ekki endurheimt lykilorðið en það er ekkert mál að endurnýja það. Kíktu á innskráningarsíðuna og klikkaðu á <em>Ég gleymdi lykil mínu</em>. Fylgdu leiðbeiningunum og þú ættir að geta skráð þig inn fljótlega.<br />Ef þú getur ekki endurnýjað lykilorðið, hafðu samband við stjórnanda',
 	),
 	array(
-		0 => 'Why do I get logged off automatically?',
-		1 => 'If you do not check the <em>Remember me</em> box when you login, the board will only keep you logged in for a preset time. This prevents misuse of your account by anyone else. To stay logged in, check the <em>Remember me</em> box during login. This is not recommended if you access the board from a shared computer, e.g. library, internet cafe, university computer lab, etc. If you do not see this checkbox, it means a board administrator has disabled this feature.',
+		0 => 'Hvers vegna útskráist ég sjálfkrafa?',
+		1 => 'Ef þú hefur ekki hakað við <em>Muna mig</em> kassan þegar þú skráir þig inn mun innskráningin einungis vera virk í fyrirfram ákveðinn tíma. Þetta hjálpar tilvið að koma í veg fyrir misnotkun á aðganginum þínum. Til að haldast skráð/ur inn, hakaðu við <em>muna mig</em> kassann þegar þú skráir þig inn. Það er ekki mælst með því að gera það ef þú ert að tengjast spjallborðinu í tölvu sem deilt er með öðrum, t.d. á bókasafni, netkaffi og svo framvegis. Ef þú sérð þennan kassa ekki merkir það að þessi möguleiki hefur verið gerður óvirkur af stjórnanda.',
 	),
 	array(
-		0 => 'What does the “Delete all board cookies” do?',
-		1 => '“Delete all board cookies” deletes the cookies created by phpBB which keep you authenticated and logged into the board. Cookies also provide functions such as read tracking if they have been enabled by a board administrator. If you are having login or logout problems, deleting board cookies may help.',
-	),
-	array(
-		0 => '--',
-		1 => 'User Preferences and settings'
-	),
-	array(
-		0 => 'How do I change my settings?',
-		1 => 'If you are a registered user, all your settings are stored in the board database. To alter them, visit your User Control Panel; a link can usually be found by clicking on your username at the top of board pages. This system will allow you to change all your settings and preferences.',
-	),
-	array(
-		0 => 'How do I prevent my username appearing in the online user listings?',
-		1 => 'Within your User Control Panel, under “Board preferences”, you will find the option <em>Hide your online status</em>. Enable this option and you will only appear to the administrators, moderators and yourself. You will be counted as a hidden user.'
-	),
-	array(
-		0 => 'The times are not correct!',
-		1 => 'It is possible the time displayed is from a timezone different from the one you are in. If this is the case, visit your User Control Panel and change your timezone to match your particular area, e.g. London, Paris, New York, Sydney, etc. Please note that changing the timezone, like most settings, can only be done by registered users. If you are not registered, this is a good time to do so.'
-	),
-	array(
-		0 => 'I changed the timezone and the time is still wrong!',
-		1 => 'If you are sure you have set the timezone correctly and the time is still incorrect, then the time stored on the server clock is incorrect. Please notify an administrator to correct the problem.'
-	),
-	array(
-		0 => 'My language is not in the list!',
-		1 => 'Either the administrator has not installed your language or nobody has translated this board into your language. Try asking a board administrator if they can install the language pack you need. If the language pack does not exist, feel free to create a new translation. More information can be found at the <a href="https://www.phpbb.com/">phpBB</a>&reg; website.',
-	),
-	array(
-		0 => 'What are the images next to my username?',
-		1 => 'There are two images which may appear along with a username when viewing posts. One of them may be an image associated with your rank, generally in the form of stars, blocks or dots, indicating how many posts you have made or your status on the board. Another, usually larger, image is known as an avatar and is generally unique or personal to each user.',
-	),
-	array(
-		0 => 'How do I display an avatar?',
-		1 => 'Within your User Control Panel, under “Profile” you can add an avatar by using one of the four following methods: Gravatar, Gallery, Remote or Upload. It is up to the board administrator to enable avatars and to choose the way in which avatars can be made available. If you are unable to use avatars, contact a board administrator.',
-	),
-	array(
-		0 => 'What is my rank and how do I change it?',
-		1 => 'Ranks, which appear below your username, indicate the number of posts you have made or identify certain users, e.g. moderators and administrators. In general, you cannot directly change the wording of any board ranks as they are set by the board administrator. Please do not abuse the board by posting unnecessarily just to increase your rank. Most boards will not tolerate this and the moderator or administrator will simply lower your post count.'
-	),
-	array(
-		0 => 'When I click the email link for a user it asks me to login?',
-		1 => 'Only registered users can send email to other users via the built-in email form, and only if the administrator has enabled this feature. This is to prevent malicious use of the email system by anonymous users.'
+		0 => 'Hvað gerir “Eyða vafrakökum”?',
+		1 => '“Eyða vafrakökum” eyðir vafrakökum sem phpBB kerfið býr til svo þú skráist inn sjálfkrafa. Kökurnar þjóna ýmsum öðrum tilgangi en ef þú átt í vandræðum með að skrá þig inn gæti hjálpað að eyða kökunum.',
 	),
 	array(
 		0 => '--',
-		1 => 'Posting Issues'
+		1 => 'Notendastillingar'
 	),
 	array(
-		0 => 'How do I create a new topic or post a reply?',
-		1 => 'To post a new topic in a forum, click "New Topic". To post a reply to a topic, click "Post Reply". You may need to register before you can post a message. A list of your permissions in each forum is available at the bottom of the forum and topic screens. Example: You can post new topics, You can post attachments, etc.',
+		0 => 'Hvernig breyti ég stillingunum mínum?',
+		1 => 'Ef þú ert skráður notandi geymir kerfið upplýsingarnar þínar. Til að breyta þeim velur þú „Stillingar“. Þú finnur það með því ýta á notendanafnið þitt efst á síðunni. Þar getur þú stillt allar breytur eftir eigin höfði.',
 	),
 	array(
-		0 => 'How do I edit or delete a post?',
-		1 => 'Unless you are a board administrator or moderator, you can only edit or delete your own posts. You can edit a post by clicking the edit button for the relevant post, sometimes for only a limited time after the post was made. If someone has already replied to the post, you will find a small piece of text output below the post when you return to the topic which lists the number of times you edited it along with the date and time. This will only appear if someone has made a reply; it will not appear if a moderator or administrator edited the post, though they may leave a note as to why they’ve edited the post at their own discretion. Please note that normal users cannot delete a post once someone has replied.'
+		0 => 'Hvernig kem ég í veg fyrir að ég sjást sem innskráður notandi?',
+		1 => 'Í stjórnborðinu undir „Stillingar“ velur þú „Stillingar spjalborðs“, finnur þú valmöguleikann <em>Fela tengingu</em>. Ef þú virkjar þennan valmöguleika birtist þú aðeins stjórnendum, ritstjórum og sjálfum þér. Þú telst þá sem falinn notandi.'
 	),
 	array(
-		0 => 'How do I add a signature to my post?',
-		1 => 'To add a signature to a post you must first create one via your User Control Panel. Once created, you can check the <em>Attach a signature</em> box on the posting form to add your signature. You can also add a signature by default to all your posts by checking the appropriate radio button in the User Control Panel. If you do so, you can still prevent a signature being added to individual posts by un-checking the add signature box within the posting form.'
+		0 => 'Tímasetningar eru rangar!',
+		1 => 'Það gæti verið að tíminn sem birtist sé frá öðru tímabelti en því sem þú ert staddur í. Ef svo er, kíktu í „Stillingar“ og breyttu tímabeltinu svo það stemmi við þitt. Vinsamlegast athugaðu að einungis skráðir notendur geta breytt tímastillingum. Ef þú ert ekki skráður nú þegar, þá er þetta rétti tíminn!'
 	),
 	array(
-		0 => 'How do I create a poll?',
-		1 => 'When posting a new topic or editing the first post of a topic, click the “Poll creation” tab below the main posting form; if you cannot see this, you do not have appropriate permissions to create polls. Enter a title and at least two options in the appropriate fields, making sure each option is on a separate line in the textarea. You can also set the number of options users may select during voting under “Options per user”, a time limit in days for the poll (0 for infinite duration) and lastly the option to allow users to amend their votes.'
+		0 => 'Ég breytti tímabeltinu en tíminn er enn ekki réttur!',
+		1 => 'Ef þú ert viss um að þú hafir stillt tímabeltið rétt og tíminn á spjallborðinu er enn ekki réttur þá er klukkan á vefþjóninum ekki rétt. Vinsamlegast láttu stjórnanda vita svo hægt sé að stilla klukkuna.'
 	),
 	array(
-		0 => 'Why can’t I add more poll options?',
-		1 => 'The limit for poll options is set by the board administrator. If you feel you need to add more options to your poll than the allowed amount, contact the board administrator.'
+		0 => 'Tungumálið mitt er ekki á listanum!',
+		1 => 'Annað hvort hefur stjórnandi ekki sett upp pakka með tungumálinu þínu eða enginn hefur þýtt það. Þú getur prófað að biðja stjórnanda að setja upp tungumálapakka fyrir þig.',
 	),
 	array(
-		0 => 'How do I edit or delete a poll?',
-		1 => 'As with posts, polls can only be edited by the original poster, a moderator or an administrator. To edit a poll, click to edit the first post in the topic; this always has the poll associated with it. If no one has cast a vote, users can delete the poll or edit any poll option. However, if members have already placed votes, only moderators or administrators can edit or delete it. This prevents the poll’s options from being changed mid-way through a poll.'
+		0 => 'Hvaða myndir eru þetta við notendanafnið mitt?',
+		1 => 'Það eru tvær myndir sem geta birst ásamt notendanafninu þínu. Önnur þeirra gæti tengst stöðu þinni, yfirleitt stjörnur, punktar eða kassar. Hin er smámynd notanda, en hana stillir notandi sjálfur.',
 	),
 	array(
-		0 => 'Why can’t I access a forum?',
-		1 => 'Some forums may be limited to certain users or groups. To view, read, post or perform another action you may need special permissions. Contact a moderator or board administrator to grant you access.'
+		0 => 'Hvernig set ég inn smámynd?',
+		1 => 'Í „Stillingar“ finnur þú „Prófíl“ þar sem þú getur bætt við smámynd. Ef þú getur ekki sett upp smámynd, hafðu samband við stjórnanda.',
 	),
 	array(
-		0 => 'Why can’t I add attachments?',
-		1 => 'Attachment permissions are granted on a per forum, per group, or per user basis. The board administrator may not have allowed attachments to be added for the specific forum you are posting in, or perhaps only certain groups can post attachments. Contact the board administrator if you are unsure about why you are unable to add attachments.'
+		0 => 'Hvað er staðan mín og hvernig breyti ég henni?',
+		1 => 'Stöður, sem birtast við notendanafn þitt, gefa til kynna fjölda pósta eða til aðgreiningar notanda, svo sem stjórnendur.'
 	),
 	array(
-		0 => 'Why did I receive a warning?',
-		1 => 'Each board administrator has their own set of rules for their site. If you have broken a rule, you may be issued a warning. Please note that this is the board administrator’s decision, and the phpBB Limited has nothing to do with the warnings on the given site. Contact the board administrator if you are unsure about why you were issued a warning.'
-	),
-	array(
-		0 => 'How can I report posts to a moderator?',
-		1 => 'If the board administrator has allowed it, you should see a button for reporting posts next to the post you wish to report. Clicking this will walk you through the steps necessary to report the post.'
-	),
-	array(
-		0 => 'What is the “Save” button for in topic posting?',
-		1 => 'This allows you to save drafts to be completed and submitted at a later date. To reload a saved draft, visit the User Control Panel.'
-	),
-	array(
-		0 => 'Why does my post need to be approved?',
-		1 => 'The board administrator may have decided that posts in the forum you are posting to require review before submission. It is also possible that the administrator has placed you in a group of users whose posts require review before submission. Please contact the board administrator for further details.'
-	),
-	array(
-		0 => 'How do I bump my topic?',
-		1 => 'By clicking the “Bump topic” link when you are viewing it, you can “bump” the topic to the top of the forum on the first page. However, if you do not see this, then topic bumping may be disabled or the time allowance between bumps has not yet been reached. It is also possible to bump the topic simply by replying to it, however, be sure to follow the board rules when doing so.'
+		0 => 'Þegar ég klikka á hlekk fyrir tölvupóstfang notanda er ég beðinn um að skrá mig inn?',
+		1 => 'Einungis skráðir notendur geta skrifað öðrum notendum tölvupóst með innbyggða kerfinu og þá einungis ef notendur hafa opnað á þann möguleika. Þetta er til að koma í veg fyrir misnotkun á tölvupóstföngum notenda.'
 	),
 	array(
 		0 => '--',
-		1 => 'Formatting and Topic Types'
+		1 => 'Innlegg, skilaboð, umræður og þræðir'
 	),
 	array(
-		0 => 'What is BBCode?',
-		1 => 'BBCode is a special implementation of HTML, offering great formatting control on particular objects in a post. The use of BBCode is granted by the administrator, but it can also be disabled on a per post basis from the posting form. BBCode itself is similar in style to HTML, but tags are enclosed in square brackets [ and ] rather than &lt; and &gt;. For more information on BBCode see the guide which can be accessed from the posting page.'
+		0 => 'Hvernig bý ég til nýja umræðu eða set inn svar?',
+		1 => 'Til að búa til nýja umræðu velur þú „Nýr þráður“. Til að svara þræði sem er nú þegar til, veldu „Svara“. Þú verður að vera innskráður til að taka þátt í umræðum.',
 	),
 	array(
-		0 => 'Can I use HTML?',
-		1 => 'No. It is not possible to post HTML on this board and have it rendered as HTML. Most formatting which can be carried out using HTML can be applied using BBCode instead.'
+		0 => 'Hvernig breyti ég eða eyði innleggi?',
+		1 => 'Notendur geta ekki eytt innleggi en geta breytt innihaldi þeirra sem og titli. Eingöngu stjórnendur eða póststjórar geta eytt innleggjum. Þú breytir innleggi með „Breyta“ takkanum við viðkomandi innlegg.'
 	),
 	array(
-		0 => 'What are Smilies?',
-		1 => 'Smilies, or Emoticons, are small images which can be used to express a feeling using a short code, e.g. :) denotes happy, while :( denotes sad. The full list of emoticons can be seen in the posting form. Try not to overuse smilies, however, as they can quickly render a post unreadable and a moderator may edit them out or remove the post altogether. The board administrator may also have set a limit to the number of smilies you may use within a post.'
+		0 => 'Hvernig bæti ég við undirskrift?',
+		1 => 'Undirskrift er stillt í notendastillingum, nánar tiltekið undir „Prófíl“. Ef þú gerir það verður undirskrift þinni bætt sjálfkrafa við öll innlegg þín. Þú getur þó valið að sleppa undirskrift á einstaka innleggjum þegar þú semur þau.'
 	),
 	array(
-		0 => 'Can I post images?',
-		1 => 'Yes, images can be shown in your posts. If the administrator has allowed attachments, you may be able to upload the image to the board. Otherwise, you must link to an image stored on a publicly accessible web server, e.g. http://www.example.com/my-picture.gif. You cannot link to pictures stored on your own PC (unless it is a publicly accessible server) nor images stored behind authentication mechanisms, e.g. hotmail or yahoo mailboxes, password protected sites, etc. To display the image use the BBCode [img] tag.'
+		0 => 'Hvernig bý ég til skoðanakönnun?',
+		1 => 'Þegar þú býrð til nýjan þráð eða ert að breyta fyrsta innleggi þráðar, velur þú „Skoðanakönnun“ flipann fyrir neðan ritilinn. Ef þú sérð flipann ekki, hefur þú ekki réttindi til að búa til skoðanakönnun. Bættu við titli og að minnsta kosti tveimur valmöguleikum. Hver valmöguleiki skal vera á sér línu. Þú getur einnig stillt hversu marga valmöguleika hver notandi hefur, fjölda daga sem skoðanakönnunin er virk (0 fyrir óendanlegt) og að lokum hvort notendur megi skipta um skoðun.'
 	),
 	array(
-		0 => 'What are global announcements?',
-		1 => 'Global announcements contain important information and you should read them whenever possible. They will appear at the top of every forum and within your User Control Panel. Global announcement permissions are granted by the board administrator.'
+		0 => 'Afhverju get ég ekki haft fleiri valmöguleika?',
+		1 => 'Stjórnendur stilla fjölda valmöguleika. Ef þú vilt fleiri valmöguleika, endilega hafðu samband við stjórnanda.'
 	),
 	array(
-		0 => 'What are announcements?',
-		1 => 'Announcements often contain important information for the forum you are currently reading and you should read them whenever possible. Announcements appear at the top of every page in the forum to which they are posted. As with global announcements, announcement permissions are granted by the board administrator.'
+		0 => 'Hvernig breyti ég eða eyði skoðanakönnun?',
+		1 => 'Eingungis höfundur, póststjórar eða stjórnandi geta breytt skoðanakönnun.  Til að breyta skoðanakönnun, velur þú að breyta fyrsta innlegginu. Ef enginn hefur kosið geta notendur eytt eða breytt könnuninni. Hinsvegar, ef einhver hefur kosið geta eingöngu stjórnendur eða póststjórar eytt eða breytt könnuninni. Þetta hjálpar að koma í veg fyrir kosningasvindl.'
 	),
 	array(
-		0 => 'What are sticky topics?',
-		1 => 'Sticky topics within the forum appear below announcements and only on the first page. They are often quite important so you should read them whenever possible. As with announcements and global announcements, sticky topic permissions are granted by the board administrator.'
+		0 => 'Hvers vegna kemst ég ekki inn á spjallsvæði?',
+		1 => 'Sum spjallborð geta verið með aðgangstakmörkunum. Til að sjá þau, lesa, skrifa eða eiga við þau á einhvern annan hátt þurfa notendur leyfi til þess. Hafðu samband við stjórananda í sambandi við aðgangsmál.'
 	),
 	array(
-		0 => 'What are locked topics?',
-		1 => 'Locked topics are topics where users can no longer reply and any poll it contained was automatically ended. Topics may be locked for many reasons and were set this way by either the forum moderator or board administrator. You may also be able to lock your own topics depending on the permissions you are granted by the board administrator.'
+		0 => 'Hver svegna get ég ekki bætt við viðhengi?',
+		1 => 'Leyfi fyrir viðhengjum ræðst af stillingum fyrir notanda, notendahóp eða fyrir hvert spjallborð. Það gæti verið að þú hafir ekki réttindi til að bæta við viðhengi. Hafðu samband við stjórnanda ef þú ert óviss um ástæðu þess að þú getir ekki notað viðhengi.'
 	),
 	array(
-		0 => 'What are topic icons?',
-		1 => 'Topic icons are author chosen images associated with posts to indicate their content. The ability to use topic icons depends on the permissions set by the board administrator.'
+		0 => 'Hvers vegna fékk ég viðvörun?',
+		1 => 'Spjallborðin hafa reglur. Ef þú hefir brotið reglu gætir þú fengið viðvörun. Hafðu samband við stjórnanda ef þú veist ekki ástæðuna á bakvið viðvörunina.'
+	),
+	array(
+		0 => 'Hvernig get ég tilkynnt innlegg?',
+		1 => 'Ef möguleikinn er í boði, ættir þú að sjá takka til að tilkynna viðkomandi innlegg við hlið þess.'
+	),
+	array(
+		0 => 'Hvað er „Vista“ í ritlinum?',
+		1 => 'Þú getur vistað drög til að klárað þau seinna. Þú finnur vistuð drög í „Stillingar“.'
+	),
+	array(
+		0 => 'Hvers vegna þarf að samþykkja innleggið mitt?',
+		1 => 'Stjórnendur gætu hafa ákveðið að samþykkja þurfi innlegg áður en þau eru birt. Hafðu samband við stjórnendur fyrir nánari upplýsingar.'
+	),
+	array(
+		0 => 'Hvernig bumpa ég umræðunni minni?',
+		1 => 'Með því að velja „Færa upp“ hlekkinn færir þú umræðuna þína efst upp á fyrstu síðuna. Ef þú sérð valmöguleikann ekki gæti verið að möguleikinn sé ekki til staðar eða að ekki hafi liðið nægur tími frá síðustu uppfærslu. Einnig er hægt að færa umræður upp með því að svara þeim en vinsamlegast sýnið tillitsemi og notið bara „Færa upp“ virknina.'
+	),
+	array(
+		0 => '--',
+		1 => 'Uppsetning og umræður'
+	),
+	array(
+		0 => 'Hvað er BBkóði?',
+		1 => 'BBkóði er sérstök útfærsla af HTML, sem býður upp á aukna möguleika til að að vissa hluti í umræðum. Notkun á BBkóða er háð samþykki stjórnenda en einnig er hægt að gera hann óvirkan í einstaka innleggjum þegar þau eru send inn.  BBkóði lítur svipað út HTML, en tögin eru innan hornklofa  [ og ] í stað &lt og &gt. Frekari upplýsingar er að finna í ritlinum við gerð innleggja.'	),
+	array(
+		0 => 'Má ég nota HTML?',
+		1 => 'Nei. Flest má leysa með notkun þess BBkóða sem leyfður er.'
+	),
+	array(
+		0 => 'Hvað eru broskallar?',
+		1 => 'Broskallar eru litlar myndir sem tákna geiflur. Eins og í raunheimum skal takmarka geiflur því þær gera samræður þreytandi. Þó eru þær stundum nauðsynlegar.'
+	),
+	array(
+		0 => 'Get ég birt myndir?',
+		1 => 'Já, þú getur bætt myndum við í innlegg þín. Hér eru viðhengi leyfð og notendur eru kvattir til að nýta sér það. Einnig er hægt að hlekkja í myndir ef þær eru aðgengilegar á netinu. Þú getur ekki vísað beint á myndir sem eru vistaðar á tölvunni þinni, í því tilfelli þarftu að bæta þeim við í viðhengi. Til að birta myndir sem eru aðgengilegar á netinu notar þú BBkóða tagið [img].'
+	),
+	array(
+		0 => 'Hvað eru víðvær tilkynningar?',
+		1 => 'Víðværar tilkynningar innihalda mikilvægar upplýsingar og þú ættir að kynna þér þær. Þær birtast efst á hverju spjallborði. '
+	),
+	array(
+		0 => 'Hvað eru tilkynningar?',
+		1 => 'Tilkynningar innihalda einnig mikilvægar upplýsingar og þú ættir að kynna þér þær. Þær birtast þó ekki allstaðar heldur eingöngu á viðeigandi spjallborðum.'
+	),
+	array(
+		0 => 'Hvað eru límdar umræður??',
+		1 => 'Límdar umræður birtast fyrir neðan tilkynningar og eru eingöngu á forsíðunni. Oft eru þær mikilvægar og þú ættir að kynna þér þær.'
+	),
+	array(
+		0 => 'Hvað eru læstar umræður?',
+		1 => 'Læstar umræður eru umræður sem hefur verið læst af einhverri ástæðu, en margar ástæður gætu legið þar að baki. Notendur geta þá ekki lengur bætt við innleggjum eða tekið þátt í skoðanakönnunu. Ef spjallborðið er þannig stillt getur þú læst þínum eigin þráðum.'
+	),
+	array(
+		0 => 'Hvað eru umræðumerki?',
+		1 => 'Höfundur þráðar getur valið mynd sem lýsir innihaldi.'
 	),
 	// This block will switch the FAQ-Questions to the second template column
 	array(
@@ -214,63 +213,63 @@ $help = array(
 	),
 	array(
 		0 => '--',
-		1 => 'User Levels and Groups'
+		1 => 'Stöður notenda og hópar'
 	),
 	array(
-		0 => 'What are Administrators?',
-		1 => 'Administrators are members assigned with the highest level of control over the entire board. These members can control all facets of board operation, including setting permissions, banning users, creating usergroups or moderators, etc., dependent upon the board founder and what permissions he or she has given the other administrators. They may also have full moderator capabilities in all forums, depending on the settings put forth by the board founder.'
+		0 => 'Hvað eru stjórnendur?',
+		1 => 'Stjórnendur eru notendur sem mest hafa valdið. Þeir geta ráðið öllum stillingum í tenglsum við spjallborðið og notendur þess.'
 	),
 	array(
-		0 => 'What are Moderators?',
-		1 => 'Moderators are individuals (or groups of individuals) who look after the forums from day to day. They have the authority to edit or delete posts and lock, unlock, move, delete and split topics in the forum they moderate. Generally, moderators are present to prevent users from going off-topic or posting abusive or offensive material.'
+		0 => 'Hvað eru póststjórar?',
+		1 => 'Póststjórar eru notendur sem líta eftir spjallborðunum. Þeir geta eytt eða breytt práðum og innleggjum ásamt því að læsa, aflæsa, færa og skipta þeim niður. Þeir eru einnig siðapostular og gæta þess að umræður afvegaleiðist ekki eða verði særandi.'
 	),
 	array(
-		0 => 'What are usergroups?',
-		1 => 'Usergroups are groups of users that divide the community into manageable sections board administrators can work with. Each user can belong to several groups and each group can be assigned individual permissions. This provides an easy way for administrators to change permissions for many users at once, such as changing moderator permissions or granting users access to a private forum.'
+		0 => 'Hvað eru notendahópar?',
+		1 => 'Hægt er að nota notendahópa til að gera umsjón kerfisins auðveldari. Hver notandi getur tilheyrt mörgum mismunandi hópum þar sem hver hópur hefur sín sérstöku réttindi.'
 	),
 	array(
-		0 => 'Where are the usergroups and how do I join one?',
-		1 => 'You can view all usergroups via the “Usergroups” link within your User Control Panel. If you would like to join one, proceed by clicking the appropriate button. Not all groups have open access, however. Some may require approval to join, some may be closed and some may even have hidden memberships. If the group is open, you can join it by clicking the appropriate button. If a group requires approval to join you may request to join by clicking the appropriate button. The user group leader will need to approve your request and may ask why you want to join the group. Please do not harass a group leader if they reject your request; they will have their reasons.'
+		0 => 'Hvar eru notendahóparnir og hvernig kemst ég í þá?',
+		1 => 'Þú getur séð alla notendahópana í stillingunum þínum. Ef þú vilt komast í hóp velurðu hann og notar hnappinn til að sækja um inngöngu. Hinsvegar eru ekki allir hópar opnir og gæti þurft að samþykkja þig inn í hann. Ef hópurinn er opinn kemstu sjálfkrafa inn með því að sækja um aðgang. Ef þess er krafist að notendur séu samþykktir í hópa þarftu að bíða eftir samþykki hópstjóra eftir að þú sendir ósk um inngöngu.'
 	),
 	array(
-		0 => 'How do I become a usergroup leader?',
-		1 => 'A usergroup leader is usually assigned when usergroups are initially created by a board administrator. If you are interested in creating a usergroup, your first point of contact should be an administrator; try sending a private message.',
+		0 => 'Hvernig verð ég hópstjóri?',
+		1 => 'Hópstjórar eru valdir af stjórnanda þegar notendahópur er búinn til. Ef þú hefur áhuga á þínum eigin notandahóp, hafðu samband við stjórnanda.',
 	),
 	array(
-		0 => 'Why do some usergroups appear in a different colour?',
-		1 => 'It is possible for the board administrator to assign a colour to the members of a usergroup to make it easy to identify the members of this group.'
+		0 => 'Hvers vegna eru mismunandi litir á sumum hópunum?',
+		1 => 'Stjórnendur geta úthlutað mismunandi litum til notendahópa svo að það verði auðveldara að aðgreina þá.'
 	),
 	array(
-		0 => 'What is a “Default usergroup”?',
-		1 => 'If you are a member of more than one usergroup, your default is used to determine which group colour and group rank should be shown for you by default. The board administrator may grant you permission to change your default usergroup via your User Control Panel.'
+		0 => 'Hvað er sjálfgefinn notendahópur?',
+		1 => 'Ef þú ert meðlimur í fleiri en einum notendahóp, þá er notast við sjálgefna notendahópinn til að ákveða lit og stöðu þína.'
 	),
 	array(
-		0 => 'What is “The team” link?',
-		1 => 'This page provides you with a list of board staff, including board administrators and moderators and other details such as the forums they moderate.'
-	),
-	array(
-		0 => '--',
-		1 => 'Private Messaging'
-	),
-	array(
-		0 => 'I cannot send private messages!',
-		1 => 'There are three reasons for this; you are not registered and/or not logged on, the board administrator has disabled private messaging for the entire board, or the board administrator has prevented you from sending messages. Contact a board administrator for more information.'
-	),
-	array(
-		0 => 'I keep getting unwanted private messages!',
-		1 => 'You can automatically delete private messages from a user by using message rules within your User Control Panel. If you are receiving abusive private messages from a particular user, report the messages to the moderators; they have the power to prevent a user from sending private messages.'
-	),
-	array(
-		0 => 'I have received a spamming or abusive email from someone on this board!',
-		1 => 'We are sorry to hear that. The email form feature of this board includes safeguards to try and track users who send such posts, so email the board administrator with a full copy of the email you received. It is very important that this includes the headers that contain the details of the user that sent the email. The board administrator can then take action.'
+		0 => 'Hvað er bakvið þennan Teymið hlekk?',
+		1 => 'Síðan atarna birtir þér upplýsingar um þá sem sjáum síðuna, bæði stjórnendur og póststjóra, ásamt nánari upplýsingum um hvaða spjallborðum þeir stýra.'
 	),
 	array(
 		0 => '--',
-		1 => 'Friends and Foes'
+		1 => 'Einkaskilaboð'
 	),
 	array(
-		0 => 'What are my Friends and Foes lists?',
-		1 => 'You can use these lists to organise other members of the board. Members added to your friends list will be listed within your User Control Panel for quick access to see their online status and to send them private messages. Subject to template support, posts from these users may also be highlighted. If you add a user to your foes list, any posts they make will be hidden by default.'
+		0 => 'Ég get ekki sent einkaskilaboð!',
+		1 => 'Þrjár ástæður koma til greina; Þú ert ekki innskráður, stjórnandi hefur gert allt einkaskilaboðakerfið óvirkt eða stjórnandi hefur bannað þér að senda einkaskilaboð. Hafðu samband við stjórananda fyrir frekari upplýsingar.'
+	),
+	array(
+		0 => 'Mér berast óæskileg einkaskilaboð!',
+		1 => 'Þú getur komið í veg fyrir að þér berist skilaboð frá vissum notendum í gegnum stillingarnar þínar. Ef þú ert að fá óæskileg skilaboð frá vissum notanda, láttu stjórnendur vita. Þeir geta tekið í lurginn á viðkomandi.'
+	),
+	array(
+		0 => 'Mér hefur borist ruslpóstur eða annar óæskilegur póstur frá einhverjum af þessu spjallborði!',
+		1 => 'Það er glatað. Tölvukerfi spjallborðsins reynir að koma í veg fyrir þessháttar hegðun og reynir að rekja misnotkun til gerenda. Þú getur hjálpað okkur með því að senda stjórnendum afrit af tölvupóstinum sem þú fékkst. Það er mikilvægt að fyrirsögn og öll smáatriði um sendanda fylgi með, stjórnendur geta þá vonandi brugðist við.'
+	),
+	array(
+		0 => '--',
+		1 => 'Vinir og óvinir'
+	),
+	array(
+		0 => 'Hvað eru vinalisti og óvinalisti?',
+		1 => 'Þú getur notað þessa lista til að flokka notendur á spjallborðinu. Notendur á vinalistanum þínum birtast í stillingunum þínum svo þú getur á auðveldan máta séð hvort þeir séu tengdir og sent þeim skilaboð. Með því að bæta notanda á óvinalistann þinn hverfa öll innlegg frá honum, svo þú þurfir ekki að lesa þau.'
 	),
 	array(
 		0 => 'How can I add / remove users to my Friends or Foes list?',
