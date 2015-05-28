@@ -388,6 +388,7 @@ $lang = array_merge($lang, array(
 	'MARK_ALL_READ'			=> 'Merkja allt lesið',
 	'MARK_FORUMS_READ'		=> 'Merkja spjallsvæði sem lesin',
 	'MARK_READ'				=> 'Merkja lesið',
+	'MARK_SUBFORUMS_READ'	=> 'Merkja undirsvæði sem lesin',
 	'MB'					=> 'MB',
 	'MIB'					=> 'MiB',
 	'MCP'					=> 'Moderator Control Panel',
