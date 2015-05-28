@@ -43,9 +43,9 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'TRANSLATION_INFO'	=> '',
 	'DIRECTION'			=> 'ltr',
-	'DATE_FORMAT'		=> '|d M Y|',	// 01 Jan 2007 (with Relative days enabled)
-	'DATETIME_FORMAT'	=> '|d M Y, H:i|',	// 01 Jan 2007, 13:37 (with Relative days enabled)
-	'USER_LANG'			=> 'en-gb',
+	'DATE_FORMAT'		=> '|d.M Y|',	// 01 Jan 2007 (with Relative days enabled)
+	'DATETIME_FORMAT'	=> '|d.M Y, H:i|',	// 01 Jan 2007, 13:37 (with Relative days enabled)
+	'USER_LANG'			=> 'is-is',
 
 	// You can define different rules for the determination of plural forms here.
 	// See http://wiki.phpbb.com/Plural_Rules for more information
@@ -60,7 +60,7 @@ $lang = array_merge($lang, array(
 	'6_MONTHS'		=> '6 mánuðum',
 	'7_DAYS'		=> '7 dögum',
 
-	'ACCOUNT_ALREADY_ACTIVATED'		=> ‘Aðgangur þinn hefur þegar verið virkjaður.’,
+	'ACCOUNT_ALREADY_ACTIVATED'		=> 'Aðgangur þinn hefur þegar verið virkjaður.',
 	'ACCOUNT_DEACTIVATED'			=> 'Your account has been manually deactivated and is only able to be reactivated by an administrator.',
 	'ACCOUNT_NOT_ACTIVATED'			=> 'Your account has not been activated yet.',
 	'ACP'							=> 'Administration Control Panel',
@@ -886,9 +886,9 @@ $lang = array_merge($lang, array(
 		'TOMORROW'	=> 'Tomorrow',
 		'YESTERDAY'	=> 'Yesterday',
 		'AGO'		=> array(
-			0		=> 'less than a minute ago',
-			1		=> '%d minute ago',
-			2		=> '%d minutes ago',
+			0		=> 'rétt í þessu',
+			1		=> '%d mínútu síðan',
+			2		=> '%d mínútum síðan',
 		),
 
 		'Sunday'	=> 'sunnudagur',
@@ -1399,17 +1399,17 @@ $lang = array_merge($lang, array(
 
 	// The value is only an example and will get replaced by the current time on view
 	'dateformats'	=> array(
-		'd M Y, H:i'			=> '01 Jan 2007, 13:37',
-		'd M Y H:i'				=> '01 Jan 2007 13:37',
-		'M jS, \'y, H:i'		=> 'Jan 1st, \'07, 13:37',
-		'D M d, Y g:i a'		=> 'Mon Jan 01, 2007 1:37 pm',
-		'F jS, Y, g:i a'		=> 'January 1st, 2007, 1:37 pm',
-		'|d M Y|, H:i'			=> 'Today, 13:37 / 01 Jan 2007, 13:37',
-		'|F jS, Y|, g:i a'		=> 'Today, 1:37 pm / January 1st, 2007, 1:37 pm',
+		'd.M Y, H:i'			=> '01.Jan 2007, 13:37',
+		'd.M Y H:i'				=> '01.Jan 2007 13:37',
+		'j.M , \'y, H:i'		=> 'Jan 1st, \'07, 13:37',
+		'D d.M, Y g:i a'		=> 'Mon Jan 01, 2007 1:37 pm',
+		'j.F , Y, g:i a'		=> 'January 1st, 2007, 1:37 pm',
+		'|d.M Y|, H:i'			=> 'Today, 13:37 / 01 Jan 2007, 13:37',
+		'|j.F, Y|, g:i a'		=> 'Today, 1:37 pm / January 1st, 2007, 1:37 pm',
 	),
 
 	// The default dateformat which will be used on new installs in this language
 	// Translators should change this if a the usual date format is different
-	'default_dateformat'	=> 'D M d, Y g:i a', // Mon Jan 01, 2007 1:37 pm
+	'default_dateformat'	=> 'D d.M, Y g:i a', // Mon Jan 01, 2007 1:37 pm
 
 ));
