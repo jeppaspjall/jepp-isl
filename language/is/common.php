@@ -227,8 +227,8 @@ $lang = array_merge($lang, array(
 	'EXTENSION_DOES_NOT_EXIST'			=> 'The extension <strong>%s</strong> does not exist.',
 
 	'FACEBOOK'				=> 'Facebook',
-	'FAQ'					=> 'FAQ',
-	'FAQ_EXPLAIN'			=> 'Frequently Asked Questions',
+	'FAQ'					=> 'Hjálp',
+	'FAQ_EXPLAIN'			=> 'Algengar spurningar',
 	'FILENAME'				=> 'Skráarnafn',
 	'FILESIZE'				=> 'File size',
 	'FILEDATE'				=> 'File date',
