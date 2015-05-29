@@ -1,19 +1,19 @@
-Subject: Topic reply notification - "{TOPIC_TITLE}"
+Subject: Svar við umræðu - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because "{AUTHOR_NAME}" quoted you in the topic "{TOPIC_TITLE}" at "{SITENAME}". You can use the following link to view the reply made.
+Þér berst þessi tilkynning vegna þess að notandinn "{AUTHOR_NAME}" vísaði í þig í umræðunni "{TOPIC_TITLE}" á "{SITENAME}". Þú getur skoðað svarið með eftirfarandi hlekk.
 
-If you want to view the quoted post, click the following link:
+Ef þú vilt skoða póstinn sem vísað var í, smelltu á hlekkinn:
 {U_VIEW_POST}
 
-If you want to view the topic, click the following link:
+Ef þú vilt skoða umræðuna, smelltu á hlekkinn:
 {U_TOPIC}
 
-If you want to view the forum, click the following link:
+Ef þú vilt skoða spjallborðið, smelltu á hlekkinn:
 {U_FORUM}
 
-If you no longer wish to receive updates about replies quoting you, please update your notification settings here:
+Ef þú vilt ekki fá frekari tilkynningar þegar vísað er í þig, getur þú breytt stillingunum þínum með því að smella á eftirfarandi hlekk:
 
 {U_NOTIFICATION_SETTINGS}
 

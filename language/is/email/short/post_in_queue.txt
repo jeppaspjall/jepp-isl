@@ -1,13 +1,13 @@
-Subject: Post moderation notification - "{TOPIC_TITLE}"
+Subject: Póststjóra tilkynning - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because the post "{POST_SUBJECT}" at "{SITENAME}" needs approval.
+Þú færð þessa tilkynningu vegna þess að pósturinn "{POST_SUBJECT}" á "{SITENAME}" krefst samþykkis. 
 
-If you want to view the post, click the following link:
+Ef þú vilt skoða póstinn, smelltu á hlekkinn:
 {U_VIEW_POST}
 
-If you want to view the topic, click the following link:
+Ef þú vil skoða umræðuna, smelltu á hlekkinn:
 {U_TOPIC}
 
 {EMAIL_SIG}

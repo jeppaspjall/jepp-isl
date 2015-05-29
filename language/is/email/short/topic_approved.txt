@@ -1,10 +1,11 @@
-Subject: Topic approved - "{TOPIC_TITLE}"
+Subject: Umræða samþykkt - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because your topic "{TOPIC_TITLE}" at "{SITENAME}" was approved by a moderator or administrator.
+Umræðan þín, "{TOPIC_TITLE}" á "{SITENAME}" hefur verið samþykkt.
 
-If you want to view the topic, click the following link:
+Smelltu á eftirfarandi hlekk ef þú vilt skoða umræðuna:
 {U_VIEW_TOPIC}
+
 
 {EMAIL_SIG}

@@ -1,13 +1,13 @@
-Subject: Topic moderation notification - "{TOPIC_TITLE}"
+Subject: Tilkynning til póststjóra - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because the topic "{TOPIC_TITLE}" at "{SITENAME}" needs approval.
+Þér berast þessi skilaboð vegna þess að umræðan "{TOPIC_TITLE}" á "{SITENAME}" krefst athygli.
 
-If you want to view the topic, click the following link:
+Ef þú vilt skoða umræðuna, smelltu á hlekkinn:
 {U_VIEW_TOPIC}
 
-If you want to view the forum, click the following link:
+Ef þú vilt skoða spjallborðið, smelltu á hlekkinn:
 {U_FORUM}
 
 {EMAIL_SIG}

@@ -1,13 +1,13 @@
-Subject: Post report - "{TOPIC_TITLE}"
+Subject: Kvörtun vegna pósts - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because the post "{POST_SUBJECT}" at "{SITENAME}" was reported.
+Þú færð þessa tilkynningu vegna þess að kvartað var yfir póstinum "{POST_SUBJECT}" á "{SITENAME}".
 
-If you want to view the report, click the following link:
+Ef þú vilt skoða tilkynninguna, smelltu á hlekkinn:
 {U_VIEW_REPORT}
 
-If you want to view the post, click the following link:
+Ef þú vilt skoða póstinn, smelltu á hlekkinn:
 {U_VIEW_POST}
 
 {EMAIL_SIG}

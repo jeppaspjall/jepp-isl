@@ -1,19 +1,20 @@
-Subject: Topic reply notification - "{TOPIC_TITLE}"
+Subject: Svar við umræðu - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because you are watching the topic "{TOPIC_TITLE}" at "{SITENAME}". This topic has received a reply<!-- IF AUTHOR_NAME !== '' --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit. No more notifications will be sent until you visit the topic.
+Þér berst þessi tilkynning vegna þess að þú ert að fylgjast með umræðunni "{TOPIC_TITLE}" á "{SITENAME}". Þessari umræðu hefur borist svar<!-- IF AUTHOR_NAME !== '' --> frá {AUTHOR_NAME}<!-- ENDIF --> frá síðustu heimsókn þinni. Þér munu ekki berast fleiri tilkynningar út af því þar til þú skoðar umræðuna.
 
-If you want to view the newest post made since your last visit, click the following link:
+
+Ef þú vilt skoða nýjusta póstinn frá síðustu heimsókn þinni, smelltu á hlekkinn:
 {U_NEWEST_POST}
 
-If you want to view the topic, click the following link:
+Ef þú vilt skoða umræðuna, smelltu á hlekkinn:
 {U_TOPIC}
 
-If you want to view the forum, click the following link:
+Ef þú vilt skoða spjallborðið, smelltu á hlekkinn:
 {U_FORUM}
 
-If you no longer wish to watch this topic you can either click the "Unsubscribe topic" link found at the bottom of the topic above, or by clicking the following link:
+Ef þú vilt hætta að fylgjast með umræðunni þá getur þú annað hvort smelt á viðeigandi hlekk neðst á síðunni eða smellt á eftirfarandi hlekk:
 {U_STOP_WATCHING_TOPIC}
 
 {EMAIL_SIG}
