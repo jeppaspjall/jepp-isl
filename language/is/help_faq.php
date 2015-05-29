@@ -187,7 +187,7 @@ $help = array(
 		1 => 'Já, þú getur bætt myndum við í innlegg þín. Hér eru viðhengi leyfð og notendur eru kvattir til að nýta sér það. Einnig er hægt að hlekkja í myndir ef þær eru aðgengilegar á netinu. Þú getur ekki vísað beint á myndir sem eru vistaðar á tölvunni þinni, í því tilfelli þarftu að bæta þeim við í viðhengi. Til að birta myndir sem eru aðgengilegar á netinu notar þú BBkóða tagið [img].'
 	),
 	array(
-		0 => 'Hvað eru víðvær tilkynningar?',
+		0 => 'Hvað eru víðværar tilkynningar?',
 		1 => 'Víðværar tilkynningar innihalda mikilvægar upplýsingar og þú ættir að kynna þér þær. Þær birtast efst á hverju spjallborði. '
 	),
 	array(
