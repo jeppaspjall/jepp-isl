@@ -68,8 +68,8 @@ $help = array(
 		1 => 'Ef þú hefur ekki hakað við <em>Muna mig</em> kassan þegar þú skráir þig inn mun innskráningin einungis vera virk í fyrirfram ákveðinn tíma. Þetta hjálpar tilvið að koma í veg fyrir misnotkun á aðganginum þínum. Til að haldast skráð/ur inn, hakaðu við <em>muna mig</em> kassann þegar þú skráir þig inn. Það er ekki mælst með því að gera það ef þú ert að tengjast spjallborðinu í tölvu sem deilt er með öðrum, t.d. á bókasafni, netkaffi og svo framvegis. Ef þú sérð þennan kassa ekki merkir það að þessi möguleiki hefur verið gerður óvirkur af stjórnanda.',
 	),
 	array(
-		0 => 'Hvað gerir “Eyða vafrakökum”?',
-		1 => '“Eyða vafrakökum” eyðir vafrakökum sem phpBB kerfið býr til svo þú skráist inn sjálfkrafa. Kökurnar þjóna ýmsum öðrum tilgangi en ef þú átt í vandræðum með að skrá þig inn gæti hjálpað að eyða kökunum.',
+		0 => 'Hvað gerir „Eyða vafrakökum“?',
+		1 => '„Eyða vafrakökum“ eyðir vafrakökum sem phpBB kerfið býr til svo þú skráist inn sjálfkrafa. Kökurnar þjóna ýmsum öðrum tilgangi en ef þú átt í vandræðum með að skrá þig inn gæti hjálpað að eyða kökunum.',
 	),
 	array(
 		0 => '--',
@@ -244,7 +244,7 @@ $help = array(
 		1 => 'Ef þú ert meðlimur í fleiri en einum notendahóp, þá er notast við sjálgefna notendahópinn til að ákveða lit og stöðu þína.'
 	),
 	array(
-		0 => 'Hvað er bakvið þennan Teymið hlekk?',
+		0 => 'Hvað er bakvið þennan „Teymið“ hlekk?',
 		1 => 'Síðan atarna birtir þér upplýsingar um þá sem sjáum síðuna, bæði stjórnendur og póststjóra, ásamt nánari upplýsingum um hvaða spjallborðum þeir stýra.'
 	),
 	array(
