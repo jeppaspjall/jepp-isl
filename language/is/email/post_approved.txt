@@ -1,13 +1,14 @@
-Subject: Post approved - "{POST_SUBJECT}"
+Subject: Póstur samþykktur - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because your post "{POST_SUBJECT}" at "{SITENAME}" was approved by a moderator or administrator.
+Tilkynning um að pósturinn þinn "{POST_SUBJECT}" á "{SITENAME}" hefur verið samþykktur af umsjónarmanni.
 
-If you want to view the post, click the following link:
+Kíktu á eftirfarandi hlekk til að skoða póstinn:
 {U_VIEW_POST}
 
-If you want to view the topic, click the following link:
+Kíktu á eftirfarandi hlekk til að skoða umræðurnar:
 {U_VIEW_TOPIC}
+
 
 {EMAIL_SIG}

@@ -1,13 +1,14 @@
-Subject: Activate user account
+Subject: {FULLNAME} - {EMAIL_ADDRESS}
 
-Hello,
+Nýr eða óvirkur notandi!
+Netfang:		{EMAIL_ADDRESS}
+Notandanafn: 	{USERNAME}
+Fullt nafn:		{FULLNAME}
 
-The account owned by "{USERNAME}" has been deactivated or newly created, you should check the details of this user (if required) and handle it appropriately.
-
-Use this link to view the user's profile:
+Prófíll:
 {U_USER_DETAILS}
 
-Use this link to activate the account:
-{U_ACTIVATE}
+Notandi virkjar sig sjálfur
+
 
 {EMAIL_SIG}

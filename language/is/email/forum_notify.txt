@@ -1,19 +1,18 @@
-Subject: Forum post notification - "{FORUM_NAME}"
+Subject: Nýr póstur - "{FORUM_NAME}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because you are watching the forum "{FORUM_NAME}" at "{SITENAME}". This forum has received a new reply to the topic "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME !== '' --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit. You can use the following link to view the last unread reply, no more notifications will be sent until you visit the topic.
+Þú fékkst þennann tölvupóst vegna þess að þú ert áskrifandi að spjallsvæðinu, "{FORUM_NAME}" á "{SITENAME}". Þetta spjallsvæði er komið með nýtt innlegg í umræðunni "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME !== '' --> frá {AUTHOR_NAME}<!-- ENDIF --> frá síðustu heimsókn þinni. Þú getur notað eftirfarandi hlekk til að lesa svarið.  Engar fleiri tilkynningar koma fyrir þessa umræðu fyrr en þú skoðar hana.
 
 {U_NEWEST_POST}
 
-If you want to view the topic, click the following link:
+Ef þú vilt skoða umræðuna, smelltu á þennann hlekk:
 {U_TOPIC}
 
-If you want to view the forum, click the following link:
+Þú getur heimsótt viðkomandi spjallflokk hér:
 {U_FORUM}
 
-If you no longer wish to watch this forum you can either click the "Unsubscribe forum" link found in the forum above, or by clicking the following link:
-
+Ef þú vilt ekki lengur fá þessi skilaboð smelltu á þennan hlekk:
 {U_STOP_WATCHING_FORUM}
 
 {EMAIL_SIG}

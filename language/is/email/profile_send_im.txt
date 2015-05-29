@@ -1,13 +1,13 @@
 
-Hello {TO_USERNAME},
+Halló {TO_USERNAME},
 
-The following is a message sent to you by {FROM_USERNAME} via your account on "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+Eftirfarandi er skilaboð eru send frá {FROM_USERNAME} í gegnum aðgang þinn á "{SITENAME}".  Ef þú telur þessi skilaboð vera ruslpóst eða að einhverju leiti óviðeigandi skaltu hafa samband við umsjónarmenn á eftirfarandi netfangi:
 
 {BOARD_CONTACT}
 
-Include this full message. Please note that the sender address has been set to the boards IM account.
+Láttu öll skilaboðin. Vinsamlegast athugaðu að netfang sendanda þessa skilaboða er IM netfang spjallborðsins.
 
-Message sent to you follows
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Skilaboðin til þín eru eftirfarandi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {MESSAGE}

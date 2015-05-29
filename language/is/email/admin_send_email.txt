@@ -1,13 +1,16 @@
 
-The following is an email sent to you by an administrator of "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+Eftirfarandi er tölvupóstur sendur til þín frá stjórnanda á "{SITENAME}".  Ef
+þér finnst skilaboðin af einhverjum ástæðum óviðeigandi skaltu hafa samband
+við umsjónarfólk spjallborðsins á eftirfarandi póstfangi:
 
 {CONTACT_EMAIL}
 
-Include this full email (particularly the headers). 
+Láttu allan tölvupóstinn fylgja ásamt bréfhausum.
 
-Message sent to you follows:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Skilaboðin sem þér voru send eru:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {MESSAGE}
+
 
 {EMAIL_SIG}

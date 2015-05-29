@@ -1,9 +1,9 @@
-Subject: Account activated
+Subject: Aðgangur virkjaður
 
-Hello {USERNAME},
+Sæl(l) {USERNAME},
 
-Your account on "{SITENAME}" has been activated by an administrator, you may login now.
+Aðgangur þinn að "{SITENAME}" hefur verið gerður virkur og getur þú nú skráð þig inn. 
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Lykilorð þitt er geymd á öruggan máta í gagnagrunni okkar og er ekki hægt að nálgast það á neinn hátt. Ef ske kynni að þú gleymir því er hægt að endurnýja það með tölvupóstfanginu sem þú skráðir. 
 
 {EMAIL_SIG}

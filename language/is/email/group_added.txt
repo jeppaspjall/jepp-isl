@@ -1,11 +1,11 @@
-Subject: You have been added to this usergroup
+Subject: Þér hefur verið bætt við hóp
 
-Congratulations,
+Til hamingju,
 
-You have been added to the "{GROUP_NAME}" group on "{SITENAME}".
-This action was done by a group leader or the site administrator, contact them for more information.
+Þér hefur verið bætt við hópinn "{GROUP_NAME}" á "{SITENAME}".
+Það var annaðhvort hópstjóri eða umsjónarmaður spjallborðsins sem bætti þér við, hafðu samband við þá til að fá meiri upplýsingar.
 
-You can view your groups information here:
+Þú getur skoðað upplýsingar um hópinn hér:
 {U_GROUP}
 
 {EMAIL_SIG}

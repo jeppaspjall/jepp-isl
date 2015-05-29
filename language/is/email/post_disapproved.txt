@@ -1,11 +1,12 @@
-Subject: Post disapproved - "{POST_SUBJECT}"
+Subject: Pósti hafnað - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because your post "{POST_SUBJECT}" at "{SITENAME}" was disapproved by a moderator or administrator.
+Tilkynning um að pósti þínum "{POST_SUBJECT}" á "{SITENAME}" hefur verið hafnað af umsjónarmönnum.
 
-The following reason was given for the disapproval:
+Eftirfarandi ástæða var gefin fyrir höfnuninni:
 
 {REASON}
+
 
 {EMAIL_SIG}

@@ -1,17 +1,16 @@
-Subject: "{SITENAME}" - Email a friend
+Subject: "{SITENAME}" - Tölvupóstur milli vina
 
-Hello {TO_USERNAME},
+Halló {TO_USERNAME},
 
-This email was sent from "{SITENAME}" by {FROM_USERNAME} who thought you may be interested in the following topic:
+Þessi tölvupóstur er sendur frá "{SITENAME}" af {FROM_USERNAME} sem hélt að þú hefðir kannski áhuga á eftirfarandi umræðu:
 
 {TOPIC_NAME}
 
-You can find it at:
+Þú finnur hana á: 
 
 {U_TOPIC}
 
-A message from {FROM_USERNAME} may also be included below. Please note that this message has not been seen or approved by the board administrators. If you wish to complain about having received this email please contact the board administrator at {BOARD_CONTACT}. Please quote the message headers when contacting this address.
-
+Viðbótar skilaboð frá {FROM_USERNAME} gætu verið hér fyrir neðan.  Athugaðu að skilaboðin eru eingöngu frá viðkomandi og hafa ekki verið lesin yfir af umsjónarmönnum.  Ef þú hefur eitthvað við þau að athuga þá getur þú haft samband við umsjónarmenn á {BOARD_CONTACT}.  Vinsamlegast láttu bréfhausana fylgja með póstinum.
 ----------
 
 {MESSAGE}

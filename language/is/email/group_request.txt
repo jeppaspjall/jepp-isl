@@ -1,9 +1,9 @@
-Subject: A request to join your group has been made
+Subject: Beiðni um að fá aðgang að hópnum þínum
 
-Dear {USERNAME},
+Kæri {USERNAME},
 
-The user "{REQUEST_USERNAME}" has requested to join the group "{GROUP_NAME}" you moderate on "{SITENAME}".
-To approve or deny this request for group membership please visit the following link:
+Notandinn "{REQUEST_USERNAME}" hefur beðið um að fá aðgang að hópnum "{GROUP_NAME}" sem þú stjórnar á "{SITENAME}".
+Til að samþykkja eða hafna beiðninni skaltu kíkja á eftirfarandi hlekk:
 
 {U_PENDING}
 
