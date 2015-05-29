@@ -50,7 +50,7 @@ $lang = array_merge($lang, array(
 	// You can define different rules for the determination of plural forms here.
 	// See http://wiki.phpbb.com/Plural_Rules for more information
 	// or ask the translation manager for help.
-	'PLURAL_RULE'		=> 1,
+	'PLURAL_RULE'		=> 15,
 
 	'1_DAY'			=> '1 degi',
 	'1_MONTH'		=> '1 mánuði',
