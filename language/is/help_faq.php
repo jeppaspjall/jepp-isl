@@ -41,7 +41,7 @@ $help = array(
 	),
 	array(
 		0 => 'Hvað er COPPA?',
-		1 => 'COPPA stendur fyrir "Children’s Online Privacy Protection Act of 1998" eru bandarísk lög sem eiga ekki við hér.',
+		1 => 'COPPA stendur fyrir "Children’s Online Privacy Protection Act of 1998" sem eru bandarísk lög og eiga þau ekki við hér.',
 	),
 	array(
 		0 => 'Hvers vegna get ég ekki nýskráð mig?',
