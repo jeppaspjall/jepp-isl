@@ -344,8 +344,8 @@ $help = array(
 		1 => 'Hugbúnaðurinn er framleiddur af phpBB Limited. Ef þér finnst eitthvað vanta, kíktu á <a href="https://www.phpbb.com/ideas/">hugmyndasvæði phpBB</a>, þar sem þú getur kosið um hugmyndir eða varpað fram þinni eigin.'
 	),
 	array(
-		0 => 'Hvern hef ég samband við vegna leiðinda eða annars óviðeigandi efni tengdu vefnum?',
-		1 => 'Hafðu samband við einhvern af stjórendnum, en þá er að finna undir „Teymið“ síðunni.'
+		0 => 'Hvern hef ég samband við vegna leiðinda eða öðru óviðeigandi efni sem gæti tengst vefnum?',
+		1 => 'Hafðu samband við einhvern af stjórendnum, en þá er að finna undir „Teymið“ síðunni. Athugið einnig að spjallborð þetta er ekki fjölmiðill heldur samskiptamiðill. Fjölmiðlalög eiga því ekki við hér. Stjórnendur, póststjórar og eigendur spjallborðsins bera ekki ábyrgð á öðrum skrifum hér en þeirra eigin.'
 	),
 	array(
 		0 => 'Hvernig hef ég samband við stjórnanda?',
