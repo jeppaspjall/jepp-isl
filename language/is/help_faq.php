@@ -272,83 +272,83 @@ $help = array(
 		1 => 'Þú getur notað þessa lista til að flokka notendur á spjallborðinu. Notendur á vinalistanum þínum birtast í stillingunum þínum svo þú getur á auðveldan máta séð hvort þeir séu tengdir og sent þeim skilaboð. Með því að bæta notanda á óvinalistann þinn hverfa öll innlegg frá honum, svo þú þurfir ekki að lesa þau.'
 	),
 	array(
-		0 => 'How can I add / remove users to my Friends or Foes list?',
-		1 => 'You can add users to your list in two ways. Within each user’s profile, there is a link to add them to either your Friend or Foe list. Alternatively, from your User Control Panel, you can directly add users by entering their member name. You may also remove users from your list using the same page.'
+		0 => 'Hvernig bæti ég við eða fjarlægi notendur af ó/vinalistanum?',
+		1 => 'Þú gætur bætt notendum við á tvennan vegu. Á prófíl hvers notanda má finna hlekk til að bæta viðkomandi notanda á annan hvorn listann. Annars er einnig hægt að bæta eða fjarlægja notendur af listum beint úr stillingunum þínum, einfaldlega með því að stimpla inn viðkomandi notendanafn.'
 	),
 	array(
 		0 => '--',
-		1 => 'Searching the Forums'
+		1 => 'Leit innan spjallborðsins'
 	),
 	array(
-		0 => 'How can I search a forum or forums?',
-		1 => 'Enter a search term in the search box located on the index, forum or topic pages. Advanced search can be accessed by clicking the “Advance Search” link which is available on all pages on the forum. How to access the search may depend on the style used.'
+		0 => 'Hvernig get ég leitað á spjallinu?',
+		1 => 'Stimplaðu inn leitarstreng í leitarboxið. Ýtarleg leit er einnig í boði og er þá hægt að þrengja leitarskilyrðin.'
 	),
 	array(
-		0 => 'Why does my search return no results?',
-		1 => 'Your search was probably too vague and included many common terms which are not indexed by phpBB. Be more specific and use the options available within Advanced search.',
+		0 => 'Hvers vegna skilar leitin mín engum niðurstöðum?',
+		1 => 'Mögulega var leitarstrengurinn óljós og innihélt mörg algeng orð sem ekki er leitað eftir. Reyndu að vera nákvæmari og nýttu þér möguleikana sem ýtarlega leitin býður uppá.',
 	),
 	array(
-		0 => 'Why does my search return a blank page!?',
-		1 => 'Your search returned too many results for the webserver to handle. Use “Advanced search” and be more specific in the terms used and forums that are to be searched.'
+		0 => 'Hvers vegna skilar leitin mín auðri síðu?',
+		1 => 'Leitin þín skilaði of mörgum niðurstöðum og vefþjónninn gerði í brækurnar. Nýttu þér möguleikana sem ýtarlega leitin býður uppá og reyndu að nota nákvæmari leitarstreng.'
 	),
 	array(
-		0 => 'How do I search for members?',
-		1 => 'Visit to the “Members” page and click the “Find a member” link.'
+		0 => 'Hvernig leita ég að notendum?',
+		1 => 'Notaðu leitina á notendasíðunni.'
 	),
 	array(
-		0 => 'How can I find my own posts and topics?',
-		1 => 'Your own posts can be retrieved either by clicking the “Show your posts” link within the User Control Panel or by clicking the “Search user’s posts” link via your own profile page or by clicking the “Quick links” menu at the top of the board. To search for your topics, use the Advanced search page and fill in the various options appropriately.',
-	),
-	array(
-		0 => '--',
-		1 => 'Subscriptions and Bookmarks',
-	),
-	array(
-		0 => 'What is the difference between bookmarking and subscribing?',
-		1 => 'In phpBB 3.0, bookmarking topics worked much like bookmarking in a web browser. You were not alerted when there was an update. As of phpBB 3.1, bookmarking is more like subscribing to a topic. You can be notified when a bookmarked topic is updated. Subscribing, however, will notify you when there is an update to a topic or forum on the board. Notification options for bookmarks and subscriptions can be configured in the User Control Panel, under “Board preferences”.',
-	),
-	array(
-		0 => 'How do I bookmark or subscribe to specific topics?',
-		1 => 'You can bookmark or subscribe to a specific topic by clicking the appropriate link in the “Topic tools” menu, conveniently located near the top and bottom of a topic discussion.<br />Replying to a topic with the “Notify me when a reply is posted” option checked will also subscribe you to the topic.',
-	),
-	array(
-		0 => 'How do I subscribe to specific forums?',
-		1 => 'To subscribe to a specific forum, click the “Subscribe forum” link, at the bottom of page, upon entering the forum.',
-	),
-	array(
-		0 => 'How do I remove my subscriptions?',
-		1 => 'To remove your subscriptions, go to your User Control Panel and follow the links to your subscriptions.'
+		0 => 'Hvernig finn ég mína eigin þræði og innlegg?',
+		1 => 'Besta leiðin er að velja „Þínir póstar“. Einnig getur þú gert einfalt mál flókið og notað ýtarlegu leitina.',
 	),
 	array(
 		0 => '--',
-		1 => 'Attachments'
+		1 => 'Áskriftir og bókamerki',
 	),
 	array(
-		0 => 'What attachments are allowed on this board?',
-		1 => 'Each board administrator can allow or disallow certain attachment types. If you are unsure what is allowed to be uploaded, contact the board administrator for assistance.'
+		0 => 'Hver er munurinn á áskrift og bókamerki?',
+		1 => 'Í phpBB 3.0, virkuðu bókamerkin líkt og í vafranum þínum. Þú fékkst ekki tilkynningu við breytingu á þræðinum. Í phpBB 3.1, virka bókamerki meira eins og áskrift að þræði. Þú færð tilkynningu þegar þráðurinn breytist. Hinsvegar með áskrift færðu tilkynningu þegar þráður eða spjallborðið breytist. Hægt er að stilla tilkynningar í stillingunum þínum.',
 	),
 	array(
-		0 => 'How do I find all my attachments?',
-		1 => 'To find your list of attachments that you have uploaded, go to your User Control Panel and follow the links to the attachments section.'
+		0 => 'Hvernig nota ég bókamerki eða gerist áskrifandi að þræði?',
+		1 => 'Þú getur sett bókamerki eða gerst áskrfiandi með því að velja viðeigandi hlekk í tólastiku þráðsins, sem er svo haganlega komið fyrir bæði efst og neðst við þráðinn. <br />Einnig gerist þú áskrifandi að þræðinum ef þú hakar við að fá tilkynningu þegar svar berst, þegar þú skrifar svar.',
+	),
+	array(
+		0 => 'Hvernig gerist ég áskrifandi að spjallborði?',
+		1 => 'Til þess að gerast áskrifandi að spjallborði smellir þú á viðeigandi hlekk neðst á upphafssíðu viðkomandi spjallborðs.',
+	),
+	array(
+		0 => 'Hvernig segi ég upp áskrift?',
+		1 => 'Þú getur sýslað með áskriftirnar þínar í stillingunum þínum.'
 	),
 	array(
 		0 => '--',
-		1 => 'phpBB Issues',
+		1 => 'Viðhengi'
 	),
 	array(
-		0 => 'Who wrote this bulletin board?',
-		1 => 'This software (in its unmodified form) is produced, released and is copyright <a href="https://www.phpbb.com/">phpBB Limited</a>. It is made available under the GNU General Public License, version 2 (GPL-2.0) and may be freely distributed. See <a href="https://www.phpbb.com/about/">About phpBB</a> for more details.',
+		0 => 'Hvaða viðhengi eru leyfileg hér?',
+		1 => 'Stjórnendur ákveða hvaða tegundir viðhengja eru leyfð. Ef þú ert óviss um hvort viðhengið sem þú vilt bæta við sé leyfilegt, hafðu samband við stjórnanda.'
 	),
 	array(
-		0 => 'Why isn’t X feature available?',
-		1 => 'This software was written by and licensed through phpBB Limited. If you believe a feature needs to be added please visit the <a href="https://www.phpbb.com/ideas/">phpBB Ideas Centre</a>, where you can upvote existing ideas or suggest new features.'
+		0 => 'Hvernig finn ég öll viðhengin mín?',
+		1 => 'Þú getur fundið yfirlit yfir öll viðhengin þín í stillingunum þínum.'
 	),
 	array(
-		0 => 'Who do I contact about abusive and/or legal matters related to this board?',
-		1 => 'Any of the administrators listed on the “The team” page should be an appropriate point of contact for your complaints. If this still gets no response then you should contact the owner of the domain (do a <a href="http://www.google.com/search?q=whois">whois lookup</a>) or, if this is running on a free service (e.g. Yahoo!, free.fr, f2s.com, etc.), the management or abuse department of that service. Please note that the phpBB Limited has <strong>absolutely no jurisdiction</strong> and cannot in any way be held liable over how, where or by whom this board is used. Do not contact the phpBB Limited in relation to any legal (cease and desist, liable, defamatory comment, etc.) matter <strong>not directly related</strong> to the phpBB.com website or the discrete software of phpBB itself. If you do email phpBB Limited <strong>about any third party</strong> use of this software then you should expect a terse response or no response at all.'
+		0 => '--',
+		1 => 'phpBB upplýsingar',
 	),
 	array(
-		0 => 'How do I contact a board administrator?',
-		1 => 'All users of the board can use the “Contact us” form, if the option was enabled by the board administrator.<br />Members of the board can also use the “The team” link.',
+		0 => 'Hver skrifaði kerfið?',
+		1 => 'Hugbúnaðurinn, í grunninn, er framleiddur og gefinn út af <a href="https://www.phpbb.com/">phpBB Limited</a> sem einnig á höfundarréttinn. Hugbúnaðurinn heyrir undir GNU leyfið, V 2.0 og er frjálst að dreifa honum. Sjá <a href="https://www.phpbb.com/about/">hér</a> fyrir nánari upplýsingar.',
+	),
+	array(
+		0 => 'Afhverju er þennan og hinn mögleika í kerfið?',
+		1 => 'Hugbúnaðurinn er framleiddur af phpBB Limited. Ef þér finnst eitthvað vanta, kíktu á <a href="https://www.phpbb.com/ideas/">hugmyndasvæði phpBB</a>, þar sem þú getur kosið um hugmyndir eða varpað fram þinni eigin.'
+	),
+	array(
+		0 => 'Hvern hef ég samband við vegna leiðinda eða annars óviðeigandi efni tengdu vefnum?',
+		1 => 'Hafðu samband við einhvern af stjórendnum, en þá er að finna undir „Teymið“ síðunni.'
+	),
+	array(
+		0 => 'Hvernig hef ég samband við stjórnanda?',
+		1 => 'Allir notendur geta notað „Hafðu samband“ formið, ef stjórnendur gefa kost á því.<br />Notendur geta einnig nýtt sér „Teymið“ hlekkinn.',
 	),
 );
