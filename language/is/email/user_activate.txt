@@ -1,8 +1,8 @@
-Subject: Reactivate your account
+Subject: Virkja aðganginn þinn
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-Your account on "{SITENAME}" has been deactivated, most likely due to changes made to your profile. In order to reactivate your account you must click on the link below:
+Aðgangur þinn á "{SITENAME}" hefur verið gerður óvirkur, líklega vegna breytinga á stillingunum þínum.  Til að gera hann aftur virkan skaltu smella á eftirfarandi hlekk:
 
 {U_ACTIVATE}
 

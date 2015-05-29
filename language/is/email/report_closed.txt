@@ -1,7 +1,8 @@
-Subject: Report closed - "{POST_SUBJECT}"
+Subject: Tilkynningu lokað - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because the report you filed on the post "{POST_SUBJECT}" in "{TOPIC_TITLE}" at "{SITENAME}" was handled by a moderator or by an administrator. The report was afterwards closed. If you have further questions contact {CLOSER_NAME} with a personal message.
+Tilkynningu þinni um póstinn "{POST_SUBJECT}" í "{TOPIC_TITLE}" á "{SITENAME}" hefur verið tekin fyrir af stjórnanda og tilkynningunni því lokað.  Ef þú hefur frekari spurningar hafðu þá samband við {CLOSER_NAME}.
+
 
 {EMAIL_SIG}

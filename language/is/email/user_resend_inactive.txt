@@ -1,19 +1,19 @@
-Subject: Welcome to "{SITENAME}"
+Subject: Velkomin(n) á "{SITENAME}"
 
 {WELCOME_MSG}
 
-Please keep this email for your records. Your account information is as follows:
+Vinsamlegast geymdu þennan tölvupóst. Notandaupplýsingar þínar eru eftirfarandi:
 
 ----------------------------
-Username: {USERNAME}
+Notandanafn: {USERNAME}
 ----------------------------
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Lykilorð þitt hefur verið dulkóðað og sett í gagnagrunn okkar. Ef þú gleymir því þá getur þú beðið um nýtt sem verður virkjað á sama hátt og þessi aðgangur.
 
-Please visit the following link in order to activate your account:
+Aðgangur þinn er óvirkur í augnablikinu. Þú getur ekki notað hann fyrr en þú ferð á eftirfarandi hlekk:
 
 {U_ACTIVATE}
 
-Thank you for registering.
+Takk fyrir að skrá þig.
 
 {EMAIL_SIG}

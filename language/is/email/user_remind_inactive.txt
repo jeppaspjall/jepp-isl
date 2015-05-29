@@ -1,11 +1,11 @@
-Subject: Inactive account reminder
+Subject: Áminning um óvirkann notanda
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-This notification is a reminder that your account at "{SITENAME}", created on {REGISTER_DATE}, remains inactive. If you would like to activate this account, please visit the following link:
+Þann {REGISTER_DATE} skráðirðu nýjan aðgang á "{SITENAME}". Aðgangurinn hefur ekki enn verið virkjaður sem er nauðsyn til að geta skráð sig inn á spjallborðið. Til hægðarauka er hlekkurinn til að virkja aðganginn hér að neðan.
 
 {U_ACTIVATE}
 
-Thank you for registering at "{SITENAME}", we look forward to your participation.
+Takk fyrir að skrá þig á "{SITENAME}", við hlökkum til að fá þig í hópinn.
 
 {EMAIL_SIG}

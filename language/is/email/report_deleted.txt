@@ -1,7 +1,8 @@
-Subject: Report deleted - "{POST_SUBJECT}"
+Subject: Tilkynningu eytt - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because the report you filed on the post "{POST_SUBJECT}" in "{TOPIC_TITLE}" at "{SITENAME}" was deleted by a moderator or by an administrator.
+Tilkynningu þinni um póstinn "{POST_SUBJECT}" í "{TOPIC_TITLE}" á "{SITENAME}" hefur verið eytt af stjórnanda.
+
 
 {EMAIL_SIG}

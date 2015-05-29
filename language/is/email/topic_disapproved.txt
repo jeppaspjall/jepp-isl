@@ -1,11 +1,12 @@
-Subject: Topic disapproved - "{TOPIC_TITLE}"
+Subject: Umræðum hafnað - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because your topic "{TOPIC_TITLE}" at "{SITENAME}" was disapproved by a moderator or administrator.
+Umræðunum þínar, "{TOPIC_TITLE}" á "{SITENAME}" hefur verið hafnað.
 
-The following reason was given for the disapproval:
+Eftirfarandi ástæða var gefin upp fyrir höfnuninni:
 
 {REASON}
+
 
 {EMAIL_SIG}

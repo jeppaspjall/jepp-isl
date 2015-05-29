@@ -1,17 +1,17 @@
-Subject: Welcome to "{SITENAME}"
+Subject: Velkomin(n) á "{SITENAME}"
 
 {WELCOME_MSG}
 
-Please keep this email for your records. Your account information is as follows:
+Vinsamlegast geymdu þennan tölvupóst. Notandaupplýsingar þínar eru eftirfarandi:
 
 ----------------------------
-Username: {USERNAME}
+Notandanafn: {USERNAME}
 
-Board URL: {U_BOARD}
+Slóð á spjallborð: {U_BOARD}
 ----------------------------
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Reyndu að gleyma ekki lykilorðinu því að það er dulkóðað í gagnagrunni okkar og við getum ekki flett því upp. Hinsvegar ef þú gleymir lykilorðinu þínu þá getur þú beðið um að fá nýtt lykilorð sem er virkjað á sama hátt og aðgangurinn þinn.
 
-Thank you for registering.
+Takk fyrir að skrá þig.
 
 {EMAIL_SIG}

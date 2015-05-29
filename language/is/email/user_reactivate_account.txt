@@ -1,17 +1,17 @@
-Subject: Reactivate your account on "{SITENAME}"
+Subject: Endurvirkja aðgang á "{SITENAME}"
 
-A board administrator requested that your account be reactivated. Your account is currently inactive.
-Please follow the steps listed here to reactivate your account.
+Spjallborðsstjóri hefur beðið um að endurvirkja aðgang þinn. Aðgangur þinn er óvirkur sem stendur. 
+Vinsamlegast fylgdu eftirfarandi skrefum til að endurvirkja aðganginn þinn.
 
-Please keep this email for your records. Your account information is as follows:
+Vinsamlegast geymdu þennann tölvupóst. Notandaupplýsingar þínar eru eftirfarandi:
 
 ----------------------------
-Username: {USERNAME}
+Notandanafn: {USERNAME}
 ----------------------------
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Reynd að gleyma ekki lykilorði þínu því það er dulkóðað í gagnagrunni okkar og við getum ekki flett því upp. Hinsvegar ef þú gleymir lykilorðinu þínu þá getur þú beðið um að fá nýtt lykilorð sem er virkjað á sama hátt og aðgangurinn þinn.
 
-Please visit the following link to reactivate your account:
+Vinsamlegast farðu á eftirfarandi hlekk til að endurvirkja aðganginn:
 
 {U_ACTIVATE}
 

@@ -1,7 +1,7 @@
-Subject: Report deleted - "{PM_SUBJECT}"
+Subject: Tilkynningu eytt - "{PM_SUBJECT}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-You are receiving this notification because the report you filed regarding the private message "{PM_SUBJECT}" at "{SITENAME}" was deleted by a moderator or administrator.
+Þér berst þessi tilkynning vegna þess að stjórnandi á síðunni "{SITENAME}" hefur eytt tilkynningu þinni vegna einkaskilaboðanna "{PM_SUBJECT}".
 
 {EMAIL_SIG}
