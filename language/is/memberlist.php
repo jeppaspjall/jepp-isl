@@ -40,8 +40,8 @@ $lang = array_merge($lang, array(
 	'ABOUT_USER'			=> 'Profile',
 	'ACTIVE_IN_FORUM'		=> 'Virkasta spjallsvæðið',
 	'ACTIVE_IN_TOPIC'		=> 'Virkasta umræðan',
-	'ADD_FOE'				=> 'Add foe',
-	'ADD_FRIEND'			=> 'Add friend',
+	'ADD_FOE'				=> 'Bæta við óvini',
+	'ADD_FRIEND'			=> 'Bæta við vini',
 	'AFTER'					=> 'Eftir',
 
 	'ALL'					=> 'All',
@@ -74,7 +74,7 @@ $lang = array_merge($lang, array(
 
 	'GROUP_LEADER'			=> 'Group leader',
 
-	'HIDE_MEMBER_SEARCH'	=> 'Hide member search',
+	'HIDE_MEMBER_SEARCH'	=> 'Fela notendaleit',
 
 	'IM_ADD_CONTACT'		=> 'Add Contact',
 	'IM_DOWNLOAD_APP'		=> 'Download application',
@@ -115,8 +115,8 @@ $lang = array_merge($lang, array(
 
 	'REAL_NAME'				=> 'Recipient name',
 	'RECIPIENT'				=> 'Recipient',
-	'REMOVE_FOE'			=> 'Remove foe',
-	'REMOVE_FRIEND'			=> 'Remove friend',
+	'REMOVE_FOE'			=> 'Fjarlægja óvin',
+	'REMOVE_FRIEND'			=> 'Fjarlægja vin',
 
 	'SELECT_MARKED'			=> 'Select marked',
 	'SELECT_SORT_METHOD'	=> 'Select sort method',
@@ -134,7 +134,7 @@ $lang = array_merge($lang, array(
 	'USERNAME_BEGINS_WITH'	=> 'Username begins with',
 	'USER_ADMIN'			=> 'Administer user',
 	'USER_BAN'				=> 'Banning',
-	'USER_FORUM'			=> 'User statistics',
+	'USER_FORUM'			=> 'Tölfræði notanda',
 	'USER_LAST_REMINDED'	=> array(
 		0		=> 'No reminder sent at this time',
 		1		=> '%1$d reminder sent<br />» %2$s',
