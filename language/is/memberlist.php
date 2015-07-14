@@ -93,8 +93,8 @@ $lang = array_merge($lang, array(
 	'LAST_ACTIVE'				=> 'Síðast tengdur',
 	'LESS_THAN'					=> 'Less than',
 	'LIST_USERS'				=> array(
-		1	=> '%d user',
-		2	=> '%d users',
+		1	=> '%d notandi',
+		2	=> '%d notendur',
 	),
 	'LOGIN_EXPLAIN_TEAM'		=> 'The board requires you to be registered and logged in to view the team listing.',
 	'LOGIN_EXPLAIN_MEMBERLIST'	=> 'The board requires you to be registered and logged in to access the memberlist.',
@@ -109,7 +109,7 @@ $lang = array_merge($lang, array(
 	'NO_VIEW_USERS'			=> 'You are not authorised to view the member list or profiles.',
 
 	'ORDER'					=> 'Order',
-	'OTHER'					=> 'Other',
+	'OTHER'					=> 'Annað',
 
 	'POST_IP'				=> 'Posted from IP/domain',
 
