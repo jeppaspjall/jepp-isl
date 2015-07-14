@@ -599,7 +599,7 @@ $lang = array_merge($lang, array(
 
 	'QUICK_LINKS'			=> 'Valmynd',
 
-	'RANK'						=> 'Rank',
+	'RANK'						=> 'Staða',
 	'READING_FORUM'				=> 'Viewing topics in %s',
 	'READING_GLOBAL_ANNOUNCE'	=> 'Reading global announcement',
 	'READING_LINK'				=> 'Following forum link %s',
@@ -692,12 +692,12 @@ $lang = array_merge($lang, array(
 	'SORRY_AUTH_READ'			=> 'You are not authorised to read this forum.',
 	'SORRY_AUTH_VIEW_ATTACH'	=> 'You are not authorised to download this attachment.',
 	'SORT_BY'					=> 'Röðun',
-	'SORT_JOINED'				=> 'Joined date',
+	'SORT_JOINED'				=> 'Nýskráning',
 	'SORT_LOCATION'				=> 'Location',
 	'SORT_RANK'					=> 'Rank',
 	'SORT_POSTS'				=> 'Posts',
 	'SORT_TOPIC_TITLE'			=> 'Titill umræðu',
-	'SORT_USERNAME'				=> 'Username',
+	'SORT_USERNAME'				=> 'Notendanafn',
 	'SPLIT_TOPIC'				=> 'Split topic',
 	'SQL_ERROR_OCCURRED'		=> 'An SQL error occurred while fetching this page. Please contact the %sBoard Administrator%s if this problem persists.',
 	'STATISTICS'				=> 'Tölfræði',

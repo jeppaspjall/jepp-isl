@@ -42,11 +42,11 @@ $lang = array_merge($lang, array(
 	'ACTIVE_IN_TOPIC'		=> 'Virkasta umræðan',
 	'ADD_FOE'				=> 'Add foe',
 	'ADD_FRIEND'			=> 'Add friend',
-	'AFTER'					=> 'After',
+	'AFTER'					=> 'Eftir',
 
 	'ALL'					=> 'All',
 
-	'BEFORE'				=> 'Before',
+	'BEFORE'				=> 'Fyrir',
 
 	'CC_SENDER'				=> 'Send a copy of this email to yourself.',
 	'CONTACT_ADMIN'			=> 'Contact a Board Administrator',
@@ -67,9 +67,9 @@ $lang = array_merge($lang, array(
 	'EMPTY_SENDER_EMAIL'	=> 'You must provide a valid email address.',
 	'EMPTY_SENDER_NAME'		=> 'You must provide a name.',
 	'EMPTY_SUBJECT_EMAIL'	=> 'You must specify a subject for the email.',
-	'EQUAL_TO'				=> 'Equal to',
+	'EQUAL_TO'				=> 'Jafnt og',
 
-	'FIND_USERNAME_EXPLAIN'	=> 'Use this form to search for specific members. You do not need to fill out all fields. To match partial data use * as a wildcard. When entering dates use the format <kbd>YYYY-MM-DD</kbd>, e.g. <samp>2004-02-29</samp>. Use the mark checkboxes to select one or more usernames (several usernames may be accepted depending on the form itself) and click the Select Marked button to return to the previous form.',
+	'FIND_USERNAME_EXPLAIN'	=> 'Þú getur notað þetta form til að leita að öðrum notendum. Þú þarft ekki að nota alla reitina. Notaðu * til að leita úr hluta að orði. Notaðu <kbd>ÁÁÁÁ-MM-DD</kbd> fyrir dagsetningar, t.d. <samp>2015-02-29</samp>.',
 	'FLOOD_EMAIL_LIMIT'		=> 'You cannot send another email at this time. Please try again later.',
 
 	'GROUP_LEADER'			=> 'Group leader',
@@ -91,7 +91,7 @@ $lang = array_merge($lang, array(
 	'IM_USER'				=> 'Send an instant message',
 
 	'LAST_ACTIVE'				=> 'Síðast tengdur',
-	'LESS_THAN'					=> 'Less than',
+	'LESS_THAN'					=> 'Minna en',
 	'LIST_USERS'				=> array(
 		1	=> '%d notandi',
 		2	=> '%d notendur',
@@ -101,7 +101,7 @@ $lang = array_merge($lang, array(
 	'LOGIN_EXPLAIN_SEARCHUSER'	=> 'The board requires you to be registered and logged in to search users.',
 	'LOGIN_EXPLAIN_VIEWPROFILE'	=> 'The board requires you to be registered and logged in to view profiles.',
 
-	'MORE_THAN'				=> 'More than',
+	'MORE_THAN'				=> 'Meira en',
 
 	'NO_CONTACT_FORM'		=> 'The board administrator contact form has been disabled.',
 	'NO_CONTACT_PAGE'		=> 'The board administrator contact page has been disabled.',
@@ -111,7 +111,7 @@ $lang = array_merge($lang, array(
 	'ORDER'					=> 'Order',
 	'OTHER'					=> 'Annað',
 
-	'POST_IP'				=> 'Posted from IP/domain',
+	'POST_IP'				=> 'Sent frá IP/domain',
 
 	'REAL_NAME'				=> 'Recipient name',
 	'RECIPIENT'				=> 'Recipient',
@@ -127,9 +127,9 @@ $lang = array_merge($lang, array(
 	'SEND_JABBER_MESSAGE'	=> 'Send Jabber message',
 	'SEND_MESSAGE'			=> 'Message',
 	'SEND_YIM_MESSAGE'		=> 'Send YIM message',
-	'SORT_EMAIL'			=> 'Email',
-	'SORT_LAST_ACTIVE'		=> 'Last active',
-	'SORT_POST_COUNT'		=> 'Post count',
+	'SORT_EMAIL'			=> 'Tölvupóstfang',
+	'SORT_LAST_ACTIVE'		=> 'Síðasta virkni',
+	'SORT_POST_COUNT'		=> 'Póstafjöldi',
 
 	'USERNAME_BEGINS_WITH'	=> 'Username begins with',
 	'USER_ADMIN'			=> 'Administer user',
