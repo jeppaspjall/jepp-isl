@@ -65,7 +65,7 @@ $lang = array_merge($lang, array(
 
 	'FILE_NOT_FOUND_404'	=> 'Skráin <strong>%s</strong> er ekki til.',
 	'FORK_TOPIC'			=> 'Afrita umræðu',
-	'FULL_EDITOR'			=> 'Fullbúinn ritill &amp; Forskoða',
+	'FULL_EDITOR'			=> 'Fullbúinn ritill &amp; forskoða',
 
 	'LINKAGE_FORBIDDEN'		=> 'Þú hefur ekki tilskilin réttindi til að skoða, niðurhala eða hlekkja frá/til þessarar síðu.',
 	'LOGIN_NOTIFY_TOPIC'	=> 'Þér hefur borist tilkynning um þessa umræðu, vinsamlega skráðu þig inn til að skoða hana.',

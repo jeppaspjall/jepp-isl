@@ -710,7 +710,7 @@ $lang = array_merge($lang, array(
 	'SUBFORUM'					=> 'Subforum',
 	'SUBFORUMS'					=> 'Subforums',
 	'SUBJECT'					=> 'Titill',
-	'SUBMIT'					=> 'Staðfesta',
+	'SUBMIT'					=> 'Skrá innlegg',
 
 	'TB'				=> 'TB',
 	'TERMS_USE'			=> 'Terms of use',
