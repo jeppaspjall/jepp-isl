@@ -35,6 +35,6 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'SIMILAR_TOPICS'			=> 'Similar Topics',
-	'DISPLAY_SIMILAR_TOPICS'	=> 'Display similar topics',
+	'SIMILAR_TOPICS'			=> 'Svipaðar umræður',
+	'DISPLAY_SIMILAR_TOPICS'	=> 'Sýna svipaðar umræður',
 ));
